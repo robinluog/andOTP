@@ -26,12 +26,12 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">سلب مسئولیت تصاویر بندانگشتی</string>
     <string name="about_thumbnails_disclaimer_no1"><b>۱.</b> همه‌ی تصاویر بندانگشتی علامت تجاری مربوط به صاحبان محترم آن‌هاست.</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>۲.</b> استفاده از علائم تجاری نشان از موافقت صاحب علامت تجاری با andOTP ندارد، و برعکس.</string>
+    <string name="about_thumbnails_disclaimer_no2"><b>۲.</b> استفاده از علائم تجاری نشان از موافقت صاحب علامت تجاری با 城果驗證器 ندارد، و برعکس.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>۳.</b> تصاویر بندانگشتی باید فقط برای نشان دادن شرکت یا محصولی که به آن مرتبط هستند مورد استفاده قرار گیرند.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>۴. لطفا از تصاویر بندانگشتی برای هیچ هدفی به جز نشان دادن یک برند یا سرویس خاص استفاده نکنید</b></string>
     <!-- Support -->
     <string name="about_title_support">حمایت از توسعه</string>
-    <string name="about_desc_support">Find out how you can support the development of andOTP</string>
+    <string name="about_desc_support">Find out how you can support the development of 城果驗證器</string>
     <string name="about_title_special_features">قابلیت‌های ویژه</string>
     <string name="about_dialog_special_features">آیا مطمئن هستید که می‌خواهید قابلیت‌های ویژه را فعال کنید؟ بیشتر آن‌ها الگوریتم‌های OTP غیراستاندارد هستند که توسط یک درخواست ویژه پیاده‌سازی شده‌اند. آن‌ها <b>به صورت رسمی پشتیبانی نمی‌شوند</b> و می‌توانند همراه با <b>محدودیت‌های خاصی</b> باشند، لطفا برای آموختن بیشتر قبل از استفاده از آن‌ها صفحه «قابلیت‌های ویژه» در دانشنامه Github را بخوانید (و خوب متوجه شوید).</string>
     <string name="about_toast_special_features">قابلیت‌های ویژه فعال شدند</string>

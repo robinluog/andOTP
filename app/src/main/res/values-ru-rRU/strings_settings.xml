@@ -70,7 +70,7 @@
     <string name="settings_desc_openpgp_verify">Зашифрованные резервные копии можно импортировать, только если они подписаны действительным ключом</string>
     <string name="settings_desc_special_features">Снимите флажок для отключения специальных возможностей</string>
     <string name="settings_desc_enable_screenshot">Разрешить снятие скриншотов главного экрана (из соображений безопасности по умолчанию выключено)</string>
-    <string name="settings_desc_enable_android_backup_service">Разрешите andOTP использовать встроенный в Android 
+    <string name="settings_desc_enable_android_backup_service">Разрешите 城果驗證器 использовать встроенный в Android
         сервис резервного копирования для создания резервных копий ключей и настроек</string>
     <string name="settings_desc_clear_keystore">Удалить ключ шифрования из хранилища ключей</string>
     <!-- Toasts -->
@@ -88,7 +88,7 @@
     <string name="settings_dialog_title_error">Ошибка</string>
     <string name="settings_dialog_title_clear_keystore">Очистить хранилище ключей?</string>
     <string name="settings_dialog_title_android_sync">Android sync</string>
-    <string name="settings_dialog_msg_encryption_change">Сейчас andOTP попытается изменить шифрование
+    <string name="settings_dialog_msg_encryption_change">Сейчас 城果驗證器 попытается изменить шифрование
         базы данных. В случае сбоя внутренняя резервная копия будет восстановлена, и шифрование 
         останется неизменным.\n\n<b>Однако, всегда полезно иметь резервную копию,
         если произойдет что-то неожиданное!</b></string>

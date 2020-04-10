@@ -19,7 +19,7 @@
     <string name="backup_desc_import_plain">Відновити облікові записи з текстового JSON файлу</string>
     <string name="backup_desc_import_crypt">Відновити облікові записи з захищеного паролем JSON файлу</string>
     <string name="backup_desc_import_crypt_old">Restore accounts from a password-protected JSON file
-        created with an <b>andOTP version lower than 0.6.3</b></string>
+        created with an <b>城果驗證器 version lower than 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Відновити облікові записи з зашифрованого за допомогою OpenPGP JSON файлу</string>
     <string name="backup_desc_crypt_setup">Завантаження паролю резервної копії з <b>Налаштувань</b> завершилося невдало,
         це означає, що або пароль не було встановлено, або щось пішло не так. Вам буде запропоновано ввести
@@ -43,7 +43,7 @@
     <string name="backup_receiver_write_permission_failed">Дозволу на запис не надано, будь ласка,        надайте доступ на запис перед тим, як почнете створення резервної копії</string>
     <string name="backup_receiver_custom_encryption_failed">Створення резервних копії на основі шифрування за допомогою паролю/PIN-коду        не підтримується сторонніми додатками</string>
     <string name="backup_new_format_dialog_title">New encryption method</string>
-    <string name="backup_new_format_dialog_msg">Since version 0.6.3 of andOTP, a <b>new and improved
+    <string name="backup_new_format_dialog_msg">Since version 0.6.3 of 城果驗證器, a <b>new and improved
         encryption method</b> is used for password-protected backups. The old backups can still be
         imported, but it is <b>highly recommended to create new backups with the improved
         encryption</b>.\n\nThis message will not be shown again.</string>

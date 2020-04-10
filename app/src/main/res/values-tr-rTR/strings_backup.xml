@@ -17,7 +17,7 @@
     <string name="backup_desc_export_openpgp">Tüm hesapları şifreli OpenPGP JSON dosyası olarak yedekle</string>
     <string name="backup_desc_import_plain">Hesapları düz metin JSON dosyasından geri yükle</string>
     <string name="backup_desc_import_crypt">Hesapları şifre korumalı JSON dosyasından geri yükle</string>
-    <string name="backup_desc_import_crypt_old">Hesapları, <b>andOTP 0.6.3\'ten daha eski bir sürüm kullanılarak</b>
+    <string name="backup_desc_import_crypt_old">Hesapları, <b>城果驗證器 0.6.3\'ten daha eski bir sürüm kullanılarak</b>
 oluşturulmuş ve şifre ile korunmuş JSON dosyasından geri yükle</string>
     <string name="backup_desc_import_openpgp">Hesapları şifrelendirilmiş OpenPGP JSON dosyasından geri yükle</string>
     <string name="backup_desc_crypt_setup"><b>Ayarlar</b> kısmından yedek parola yüklenemedi.
@@ -49,7 +49,7 @@ lütfen bu iznin tanımlanmış olduğundan emin olun</string>
     <string name="backup_receiver_custom_encryption_failed">Parola/PIN tabanlı şifreleme, broadcast yedekleme
         ile desteklenmemektedir</string>
     <string name="backup_new_format_dialog_title">Yeni şifreleme metodu</string>
-    <string name="backup_new_format_dialog_msg">andOTP 0.6.3\'ten beri şifre ile korunmuş yedekler için <b>daha yeni bir şifreleme metodu</b> kullanılmakta. Eski yedekleri halen içeri aktarabilirsiniz, lakin <b>yeni şifreleme metodu ile yeni bir yedek oluşturup onu saklamanızı şiddetle öneririz</b>.\n\nBu mesaj bir daha gözükmeyecek.</string>
+    <string name="backup_new_format_dialog_msg">城果驗證器 0.6.3\'ten beri şifre ile korunmuş yedekler için <b>daha yeni bir şifreleme metodu</b> kullanılmakta. Eski yedekleri halen içeri aktarabilirsiniz, lakin <b>yeni şifreleme metodu ile yeni bir yedek oluşturup onu saklamanızı şiddetle öneririz</b>.\n\nBu mesaj bir daha gözükmeyecek.</string>
     <!-- Notification channels -->
     <string name="notification_channel_name_backup_failed">Otomatik yedekleme başarısız</string>
     <string name="notification_channel_name_backup_success">Otomatik yedekleme başarılı</string>

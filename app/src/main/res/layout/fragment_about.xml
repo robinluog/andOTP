@@ -51,7 +51,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textStyle="bold"
-                        android:text="@string/about_description" />
+                        android:text="Two-factor authentication for Android" />
 
                 </LinearLayout>
 
@@ -64,6 +64,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/activity_margin_small"
             android:layout_marginBottom="@dimen/activity_margin_small"
+            android:visibility="invisible"
             style="?attr/cardStyle" >
 
             <LinearLayout
@@ -257,6 +258,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/activity_margin_small"
             android:layout_marginBottom="@dimen/activity_margin_small"
+            android:visibility="invisible"
             style="?attr/cardStyle" >
 
             <LinearLayout
@@ -459,6 +461,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/activity_margin_small"
             android:layout_marginBottom="@dimen/activity_margin_small"
+            android:visibility="invisible"
             style="?attr/cardStyle" >
 
                 <LinearLayout
@@ -509,6 +512,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/activity_margin_small"
             android:layout_marginBottom="@dimen/activity_margin_small"
+            android:visibility="invisible"
             style="?attr/cardStyle">
 
             <LinearLayout

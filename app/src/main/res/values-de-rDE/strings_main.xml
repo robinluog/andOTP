@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Entfernen</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Authentifizierung fehlgeschlagen, bitte erneut versuchen!</string>
-    <string name="toast_auth_failed_fatal">Authentifizierung fehlgeschlagen, andOTP wird geschlossen!</string>
+    <string name="toast_auth_failed_fatal">Authentifizierung fehlgeschlagen, 城果驗證器 wird geschlossen!</string>
     <string name="toast_copied_to_clipboard">In Zwischenablage kopiert</string>
     <string name="toast_entry_exists">Dieser Eintrag ist bereits vorhanden</string>
     <string name="toast_invalid_qr_code">Ungültiger QR-Code</string>
@@ -70,13 +70,13 @@
     <string name="dialog_title_enter_password">Passwort eingeben</string>
     <string name="dialog_label_enter_password">Passwort eingeben</string>
     <string name="dialog_label_confirm_password">Passwort bestätigen</string>
-    <string name="dialog_msg_auth">Bitte geben Sie die Anmeldeinformationen Ihres Geräts ein, um andOTP zu starten.</string>
+    <string name="dialog_msg_auth">Bitte geben Sie die Anmeldeinformationen Ihres Geräts ein, um 城果驗證器 zu starten.</string>
     <string name="dialog_msg_confirm_delete">Sind Sie sicher, dass das Konto \"%1$s\" gelöscht werden soll?</string>
-    <string name="dialog_msg_used_tokens">Damit andOTP erkennen kann, welche Token verwendet werden, musst du
+    <string name="dialog_msg_used_tokens">Damit 城果驗證器 erkennen kann, welche Token verwendet werden, musst du
         entweder \"Tippen zum Anzeigen\" aktivieren oder den Kopierknopf verwenden. Dies gilt sowohl für die
         Sortierung der Token nach \"meistgenutzt\" als auch nach \"Zuletzt verwendet\".\n\nDiese Nachricht wird nicht erneut
         angezeigt.</string>
-    <string name="dialog_msg_keystore_error">Fehler beim Laden des Verschlüsselungsschlüssels aus dem KeyStore. <b>Alle Einträge, die hinzugefügt werden, gehen verloren.</b>\n\nUm andOTP dennoch verwenden zu können, rufe die <b>Einstellungen</b> auf und setze die <b>Datenbank-Verschlüsselung</b> auf <b>Passwort / PIN</b>.</string>
+    <string name="dialog_msg_keystore_error">Fehler beim Laden des Verschlüsselungsschlüssels aus dem KeyStore. <b>Alle Einträge, die hinzugefügt werden, gehen verloren.</b>\n\nUm 城果驗證器 dennoch verwenden zu können, rufe die <b>Einstellungen</b> auf und setze die <b>Datenbank-Verschlüsselung</b> auf <b>Passwort / PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">QR-Code scannen</string>
     <string name="shortcut_name_import_qr">QR-Code importieren</string>

@@ -25,12 +25,12 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">Αποποίηση ευθυνών για μικρογραφίες</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Όλες οι μικρογραφίες είναι εμπορικά σήματα των αντίστοιχων ιδιοκτητών τους.</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Η χρήση αυτών των εμπορικών σημάτων δεν υποδηλώνει έγκριση του δικαιούχου του εμπορικού σήματος από το andOTP, ούτε το αντίστροφο.</string>
+    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Η χρήση αυτών των εμπορικών σημάτων δεν υποδηλώνει έγκριση του δικαιούχου του εμπορικού σήματος από το 城果驗證器, ούτε το αντίστροφο.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Οι μικρογραφίες πρέπει να χρησιμοποιείται μόνο για να εκπροσωπείται η εταιρεία ή το προϊόν στο οποίο παραπέμπουν.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Παρακαλώ μην χρησιμοποιείτε μικρογραφίες για οποιονδήποτε σκοπό εκτός από το να εκπροσωπηθεί η συγκεκριμένη μάρκα ή υπηρεσία.</b></string>
     <!-- Support -->
     <string name="about_title_support">Υποστηρίξτε την ανάπτυξη της εφαρμογής</string>
-    <string name="about_desc_support">Μάθετε πώς μπορείτε να υποστηρίξετε την ανάπτυξη του andOTP</string>
+    <string name="about_desc_support">Μάθετε πώς μπορείτε να υποστηρίξετε την ανάπτυξη του 城果驗證器</string>
     <string name="about_title_special_features">Ειδικά χαρακτηριστικά</string>
     <string name="about_dialog_special_features">Είστε σίγουροι ότι θέλετε να ενεργοποιήσετε τα ειδικά χαρακτηριστικά; Τα περισσότερα από αυτά δεν είναι πρότυποι αλγόριθμοι OTP και υλοποιήθηκαν μετά από ειδικά αιτήματα. <b>Δεν υποστηρίζονται επίσημα</b> και μπορεί να έχουν <b>ορισμένους περιορισμούς</b>, παρακαλώ διαβάστε (και κατανοήστε) την σελίδα \"Ειδικά χαρακτηριστικά\" στο wiki στο Github για να μάθετε περισσότερα πριν τα χρησιμοποιήσετε.</string>
     <string name="about_toast_special_features">Τα ειδικά χαρακτηριστικά είναι ενεργοποιημένα</string>

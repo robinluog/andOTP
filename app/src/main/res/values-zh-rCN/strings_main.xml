@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">移除</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">验证失败，请重试！</string>
-    <string name="toast_auth_failed_fatal">验证失败，正在关闭 andOTP！</string>
+    <string name="toast_auth_failed_fatal">验证失败，正在关闭 城果驗證器！</string>
     <string name="toast_copied_to_clipboard">已复制到剪贴板</string>
     <string name="toast_entry_exists">该项已存在</string>
     <string name="toast_invalid_qr_code">无效二维码</string>
@@ -70,10 +70,10 @@
     <string name="dialog_title_enter_password">输入密码</string>
     <string name="dialog_label_enter_password">输入密码</string>
     <string name="dialog_label_confirm_password">确认密码</string>
-    <string name="dialog_msg_auth">请输入您的设备凭据以启动 andOTP。</string>
+    <string name="dialog_msg_auth">请输入您的设备凭据以启动 城果驗證器。</string>
     <string name="dialog_msg_confirm_delete">您确定要删除账户“%1$s”吗？</string>
-    <string name="dialog_msg_used_tokens">为了让 andOTP 识别您使用了哪些令牌，您必须使用“点击显示”或“复制”按钮。以便于令牌按“最常使用”和“最近使用”排序。\n\n此消息不会再次显示。</string>
-    <string name="dialog_msg_keystore_error">从密钥库加载加密密钥失败。<b>添加的任何项都将丢失。</b>\n\n如要继续使用 andOTP，您可以到 <b>设置</b> 中将 <b>数据库加密</b> 切换为 <b>密码/PIN</b>。</string>
+    <string name="dialog_msg_used_tokens">为了让 城果驗證器 识别您使用了哪些令牌，您必须使用“点击显示”或“复制”按钮。以便于令牌按“最常使用”和“最近使用”排序。\n\n此消息不会再次显示。</string>
+    <string name="dialog_msg_keystore_error">从密钥库加载加密密钥失败。<b>添加的任何项都将丢失。</b>\n\n如要继续使用 城果驗證器，您可以到 <b>设置</b> 中将 <b>数据库加密</b> 切换为 <b>密码/PIN</b>。</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">扫描二维码</string>
     <string name="shortcut_name_import_qr">导入二维码</string>

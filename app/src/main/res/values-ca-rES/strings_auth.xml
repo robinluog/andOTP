@@ -6,7 +6,7 @@
     <string name="auth_hint_password">Contrasenya</string>
     <string name="auth_hint_pin">PIN</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Per favor, autentiqueu-vos per a iniciar andOTP!</string>
+    <string name="auth_msg_authenticate">Per favor, autentiqueu-vos per a iniciar 城果驗證器!</string>
     <string name="auth_msg_confirm_encryption">Per favor, confirmeu la vostra autenticació per a generar
         la clau de xifratge nova!</string>
     <!-- Buttons -->

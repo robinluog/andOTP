@@ -19,7 +19,7 @@
     <string name="backup_desc_import_plain">Restaurer tous les comptes à partir d\'un fichier JSON en clair</string>
     <string name="backup_desc_import_crypt">Restaurer tous les comptes à partir d\'un fichier JSON protégé par un mot de passe</string>
     <string name="backup_desc_import_crypt_old">Restaurer les comptes depuis un fichier JSON protégé par un mot de passe
-        créé avec une version <b>andOTP inférieure à 0.6.3</b></string>
+        créé avec une version <b>城果驗證器 inférieure à 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Restaurer tous les comptes à partir d\'un fichier JSON chiffré avec OpenPGP</string>
     <string name="backup_desc_crypt_setup">Le mot de passe de sauvegarde n\'a pas été chargé à partir des <b>Réglages</b>, 
         cela signifie soit qu\'aucun mot de passe n\'a été défini, soit que quelque chose n\'a pas fonctionné. Il vous sera demandé d\'entrer 
@@ -38,7 +38,7 @@
     <string name="backup_receiver_write_permission_failed">L\'autorisation d\'écriture n\'est pas accordée, veuillez le faire avant d’effectuer la sauvegarde</string>
     <string name="backup_receiver_custom_encryption_failed">Le chiffrement à base de mot de passe ou code PIN n\'est pas supporté par la sauvegarde par diffusion</string>
     <string name="backup_new_format_dialog_title">Nouvelle méthode de chiffrement</string>
-    <string name="backup_new_format_dialog_msg">Depuis la version 0.6.3 de andOTP, une <b>nouvelle méthode
+    <string name="backup_new_format_dialog_msg">Depuis la version 0.6.3 de 城果驗證器, une <b>nouvelle méthode
         de chiffrement améliorée</b> est utilisée pour les sauvegardres protégées par mot de passe.
         Les anciennes sauvegardes peuvent toujours être importées mais il est <b>hautement
         recommandé de créer de nouvelles sauvegardes avec le chiffrement amélioré</b>.\n\nCe 

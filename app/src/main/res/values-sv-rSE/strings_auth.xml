@@ -5,7 +5,7 @@
     <string name="auth_hint_password">Lösenord</string>
     <string name="auth_hint_pin">PIN-kod</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Vänligen verifiera för att starta andOTP!</string>
+    <string name="auth_msg_authenticate">Vänligen verifiera för att starta 城果驗證器!</string>
     <string name="auth_msg_confirm_encryption">Vänligen bekräfta din autentisering för att generera
         ny krypteringsnyckel!</string>
     <!-- Buttons -->

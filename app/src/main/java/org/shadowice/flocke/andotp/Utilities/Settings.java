@@ -518,9 +518,12 @@ public class Settings {
         return Constants.TagFunctionality.valueOf(tagFunctionality.toUpperCase());
     }
 
-
     public boolean getScreenshotsEnabled() {
         return getBoolean(R.string.settings_key_enable_screenshot, false);
+    }
+
+    public void setScreenshotsEnabled(boolean value) {
+        setBoolean(R.string.settings_key_enable_screenshot, value);
     }
 
     public boolean getUsedTokensDialogShown() {

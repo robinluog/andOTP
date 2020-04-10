@@ -72,7 +72,7 @@
     <string name="settings_desc_openpgp_verify">پشتیبان‌های رمزگذاری شده، فقط اگر با یک کلید معتبر امضا شده اند، بازنشانی شوند</string>
     <string name="settings_desc_special_features">تیک را بردارید تا قابلیت‌های ویژه دوباره غیرفعال شوند</string>
     <string name="settings_desc_enable_screenshot">اجازه بده تا از صفحه اصلی برنامه تصویر برداری شود (به صورت پیشفرض به دلایل امنیتی غیرفعال است)</string>
-    <string name="settings_desc_enable_android_backup_service">AndOTP را قادر می‌کند تا از سرویس پشتیبان‌گیری داخلی اندروید استفاده کند تا از کلید‌ها و تنظیمات پشتیبان‌گیری کند</string>
+    <string name="settings_desc_enable_android_backup_service">城果驗證器 را قادر می‌کند تا از سرویس پشتیبان‌گیری داخلی اندروید استفاده کند تا از کلید‌ها و تنظیمات پشتیبان‌گیری کند</string>
     <string name="settings_desc_clear_keystore">کلید رمزگذاری را از KeyStore حذف کن</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">این قابلیت حداقل به اندروید ۵. ۰ (Lollipop) نیاز دارد تا کار کند</string>
@@ -89,7 +89,7 @@
     <string name="settings_dialog_title_error">خطا</string>
     <string name="settings_dialog_title_clear_keystore">تمیز کردن KeyStore؟</string>
     <string name="settings_dialog_title_android_sync">همسان‌سازی اندروید</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP حالا سعی خواهد کرد تا رمزگذاری پایگاه داده را تغییر دهد. در صورت شکست، یک پشتیبان داخلی بازنشانی می‌شود و رمزگذاری بدون تغییر باقی می‌ماند.\n\n<b>با این حال، این همیشه ایده خوبیست که یک پشتیبان داشته باشید، برای مواردی که چیز پیش‌بینی نشده‌ای اتفاق بیوفتد!</b></string>
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 حالا سعی خواهد کرد تا رمزگذاری پایگاه داده را تغییر دهد. در صورت شکست، یک پشتیبان داخلی بازنشانی می‌شود و رمزگذاری بدون تغییر باقی می‌ماند.\n\n<b>با این حال، این همیشه ایده خوبیست که یک پشتیبان داشته باشید، برای مواردی که چیز پیش‌بینی نشده‌ای اتفاق بیوفتد!</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">شما می‌توانید همیشه از رمز عبور یا پین استفاده کنید، تا وقتی که رمزگذاری پایگاه داده روی «رمز عبور / پین» تنظیم شده باشد!</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">شما ابتدا باید احراز هویت را روی «رمز عبور» یا «پین» تنظیم کنید!</string>
     <string name="settings_dialog_msg_encryption_invalid_without_credentials">شما باید ابتدا یک رمز عبور یا پین تنظیم کنید، پیش از آنکه رمزگذاری را تغییر دهید!</string>

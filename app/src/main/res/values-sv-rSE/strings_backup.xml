@@ -18,7 +18,7 @@
     <string name="backup_desc_import_plain">Återställa konton från en oformaterad JSON-fil</string>
     <string name="backup_desc_import_crypt">Återställ konton från en lösenordsskyddad JSON-fil</string>
     <string name="backup_desc_import_crypt_old">Återställ konton från en lösenordsskyddad JSON-fil
-        skyddad med en <b>andOTP-version lägre än 0.6.3</b></string>
+        skyddad med en <b>城果驗證器-version lägre än 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Återställ konton från en OpenPGP-krypterad JSON-fil</string>
     <string name="backup_desc_crypt_setup">Det gick inte att läsa in säkerhetskopieringslösenordet från <b>Inställningar</b>,
         det betyder antingen att inget lösenord har ställts in eller att något gick fel. Du kommer att bli ombedd att ange
@@ -51,7 +51,7 @@
     <string name="backup_receiver_custom_encryption_failed">Lösenord/PIN-baserad kryptering stöds
         inte med broadcast-säkerhetskopiering</string>
     <string name="backup_new_format_dialog_title">Ny krypteringsmetod</string>
-    <string name="backup_new_format_dialog_msg">Sedan version 0.6.3 av andOTP, används <b>ny och förbättrad
+    <string name="backup_new_format_dialog_msg">Sedan version 0.6.3 av 城果驗證器, används <b>ny och förbättrad
         krypteringsmethod</b> för lösenordsskyddade säkerhetskopior. Gamla säkerhetskopior kan
         fortfarande importeras, men det <b>rekommenderas starkt att skapa nya säkerhetskopior med
         den förbättrade krypteringen</b>.\n\nDetta meddelande kommer inte att visas igen.</string>

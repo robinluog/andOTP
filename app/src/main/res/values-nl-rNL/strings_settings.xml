@@ -73,7 +73,7 @@
     <string name="settings_desc_openpgp_verify">Gecodeerde reservekopieën worden alleen geïmporteerd als ze zijn ondertekend met een geldige sleutel</string>
     <string name="settings_desc_special_features">Deselecteer om speciale functies weer uit te schakelen</string>
     <string name="settings_desc_enable_screenshot">Schermafbeeldingen toestaan op het hoofdscherm (standaard uitgeschakeld om veiligheidsredenen)</string>
-    <string name="settings_desc_enable_android_backup_service">Laat andOTP toe om Android\'s ingebouwde reservekopie service te gebruiken om een kopie te maken van sleutels en voorkeuren</string>
+    <string name="settings_desc_enable_android_backup_service">Laat 城果驗證器 toe om Android\'s ingebouwde reservekopie service te gebruiken om een kopie te maken van sleutels en voorkeuren</string>
     <string name="settings_desc_clear_keystore">Verwijderen de encryptiesleutel uit de sleutelopslag</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">Deze functie vereist ten minste Android 5.0 (Lollipop)</string>
@@ -90,7 +90,7 @@
     <string name="settings_dialog_title_error">Fout</string>
     <string name="settings_dialog_title_clear_keystore">Sleutelopslag leegmaken?</string>
     <string name="settings_dialog_title_android_sync">Android synchronisatie</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP zal nu proberen de database encryptie te wijzigen. In het geval dat dit niet lukt, zal een intern reservekopie teruggeplaatst worden en blijft de encryptie onveranderd.\n\n<b>Het is echter altijd een goed idee om een kopie te hebben voor het geval dat er iets onverwachts gebeurd!</b></string>
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 zal nu proberen de database encryptie te wijzigen. In het geval dat dit niet lukt, zal een intern reservekopie teruggeplaatst worden en blijft de encryptie onveranderd.\n\n<b>Het is echter altijd een goed idee om een kopie te hebben voor het geval dat er iets onverwachts gebeurd!</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">U kunt alleen een wachtwoord of pincode gebruiken zolang de database encryptie is ingesteld op \"Wachtwoord / PIN\"!</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">U moet eerst de authenticatie instellen op \"Wachtwoord\" of \"PIN\"!</string>
     <string name="settings_dialog_msg_encryption_invalid_without_credentials">Je moet een wachtwoord of pincode instellen voor het wijzigen van de versleuteiing!</string>

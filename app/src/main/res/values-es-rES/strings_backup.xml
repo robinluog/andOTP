@@ -18,7 +18,7 @@
     <string name="backup_desc_import_plain">Restaurar cuentas desde fichero JSON de texto plano</string>
     <string name="backup_desc_import_crypt">Restaurar cuentas desde fichero JSON con contraseña</string>
     <string name="backup_desc_import_crypt_old">Restaurar cuentas de un archivo JSON protegido por contraseña
-        creado con una <b>versión de andOTP inferior a 0.6.3</b></string>
+        creado con una <b>versión de 城果驗證器 inferior a 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Restaurar cuentas desde fichero JSON cifrado con OpenPGP</string>
     <string name="backup_desc_crypt_setup">Error al cargar la contraseña del respaldo de los <b>Ajustes</b>, esto puede deberse a que no se ha establecido una contraseña o a que algo ha salido mal. Se te pedirá que ingreses la contraseña manualmente cuando crees o importes un respaldo.    </string>
     <string name="backup_desc_openpgp_provider">Necesitas instalar un proveedor de OpenPGP y activarlo
@@ -46,7 +46,7 @@
     <string name="backup_receiver_custom_encryption_failed">Cifrado basado en clave/PIN no
         soportado en la copia de seguridad de difusión</string>
     <string name="backup_new_format_dialog_title">Nuevo método de cifrado</string>
-    <string name="backup_new_format_dialog_msg">A partir de la versión 0.6.3 de andOTP, se utiliza un <b>nuevo y mejorado
+    <string name="backup_new_format_dialog_msg">A partir de la versión 0.6.3 de 城果驗證器, se utiliza un <b>nuevo y mejorado
         método de cifrado</b> para copias de seguridad protegidas por contraseña. Las copias de seguridad antiguas aún pueden ser
         importadas, pero es <b>sumamente recomendable crear nuevas copias de seguridad con
         el cifrado mejorado</b>.\n\nEste mensaje no se mostrará nuevamente.</string>

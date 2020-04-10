@@ -25,12 +25,12 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">Miniatury - zřeknutí se odpovědnosti</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Všechny miniatury jsou ochrannými známkami jejich příslušných vlastníků.</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> použití těchto ochranných známek neznamená souhlas držitele ochranné známky andOTP, ani naopak.</string>
+    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> použití těchto ochranných známek neznamená souhlas držitele ochranné známky 城果驗證器, ani naopak.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> miniatury lze používat pouze k reprezentaci firmy nebo výrobku, jehož se týkají.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Nepoužívejte prosím miniatury pro jakékoli účely s výjimkou odkazu na konkrétní značku nebo službu.</b></string>
     <!-- Support -->
     <string name="about_title_support">Podpořte vývoj</string>
-    <string name="about_desc_support">Zjistěte, jak můžete podpořit vývoj andOTP</string>
+    <string name="about_desc_support">Zjistěte, jak můžete podpořit vývoj 城果驗證器</string>
     <string name="about_title_special_features">Speciální funkce</string>
     <string name="about_dialog_special_features">Jste si opravdu jistí, že chcete zapnout speciální funkce?
 Většina z nich jsou nestandardní OTP algoritmy, které byly implementovány na základě speciálních požadavků.

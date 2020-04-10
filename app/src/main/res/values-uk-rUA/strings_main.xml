@@ -49,7 +49,7 @@
     <string name="menu_popup_remove">Видалити</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Аутентифікація не пройдена. Будь ласка, спробуйте ще раз!</string>
-    <string name="toast_auth_failed_fatal">Автентифікація не пройдена, закриття andOTP!</string>
+    <string name="toast_auth_failed_fatal">Автентифікація не пройдена, закриття 城果驗證器!</string>
     <string name="toast_copied_to_clipboard">Скопійовано до буфера обміну</string>
     <string name="toast_entry_exists">Запис з цим ім\'ям уже існує</string>
     <string name="toast_invalid_qr_code">Невірний QR-код</string>
@@ -71,14 +71,14 @@
     <string name="dialog_title_enter_password">Введіть пароль</string>
     <string name="dialog_label_enter_password">Введіть пароль</string>
     <string name="dialog_label_confirm_password">Підтвердіть пароль</string>
-    <string name="dialog_msg_auth">Будь ласка, підтвердіть дані вашого пристрою, щоб запустити andOTP.</string>
+    <string name="dialog_msg_auth">Будь ласка, підтвердіть дані вашого пристрою, щоб запустити 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Ви впевнені, що хочете видалити обліковий запис: \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
     <string name="dialog_msg_keystore_error">Завантаження ключа шифрування з KeyStore завершилося невдало.
-        <b>Усі дані, які Ви додали - будуть втрачені.</b>\n\nЩоб мати надалі можливість використовувати andOTP, Ви можете перейти
+        <b>Усі дані, які Ви додали - будуть втрачені.</b>\n\nЩоб мати надалі можливість використовувати 城果驗證器, Ви можете перейти
         до <b>Налаштувань</b> і змінити <b>Шифрування бази даних</b> на <b>Пароль / ПІН-код</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Зісканувати QR-код</string>

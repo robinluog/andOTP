@@ -80,7 +80,7 @@
     <string name="settings_desc_special_features">Натисніть на позначку, щоб вимкнути спеціальні можливості</string>
     <string name="settings_desc_enable_screenshot">Дозволити робити знімки екрану
         (з міркувань безпеки - вимкнено, за змовчуванням)</string>
-    <string name="settings_desc_enable_android_backup_service">Дозволити andOTP використовувати вбудовану в Android
+    <string name="settings_desc_enable_android_backup_service">Дозволити 城果驗證器 використовувати вбудовану в Android
         службу для створення резервних копій ключів та налаштувань</string>
     <string name="settings_desc_clear_keystore">Видалити ключ шифрування з KeyStore</string>
     <!-- Toasts -->
@@ -106,7 +106,7 @@
     <string name="settings_dialog_title_error">Помилка</string>
     <string name="settings_dialog_title_clear_keystore">Очистити KeyStore?</string>
     <string name="settings_dialog_title_android_sync">Синхронізація Android</string>
-    <string name="settings_dialog_msg_encryption_change">Зараз andOTP спробує змінити тип шифрування
+    <string name="settings_dialog_msg_encryption_change">Зараз 城果驗證器 спробує змінити тип шифрування
         бази даних. У випадку невдачі - внутрішня резервна копія бази даних з її типом шифрування буде         
         відновлена.\n\n<b>Проте, завжди потрібно мати резервну копію, якщо станеться 
         щось кепське!</b></string>

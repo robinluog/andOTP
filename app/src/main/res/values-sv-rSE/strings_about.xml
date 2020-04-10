@@ -27,14 +27,14 @@
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Alla miniatyrbilder är varumärken som tillhör deras
         respektive ägare.</string>
     <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Användningen av dessa varumärken indikerar
-        inte godkännande av varumärkesinnehavaren av andOTP, eller vice versa.</string>
+        inte godkännande av varumärkesinnehavaren av 城果驗證器, eller vice versa.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Miniatyrbilder bör endast användas för att
         representera det företag eller den produkt som de hänvisar till.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Använd inte miniatyrbilder för något
         ändamål förutom att representera det specifika varumärket eller tjänsten.</b></string>
     <!-- Support -->
     <string name="about_title_support">Stöd utvecklingen</string>
-    <string name="about_desc_support">Ta reda på hur du kan stödja utvecklingen av andOTP</string>
+    <string name="about_desc_support">Ta reda på hur du kan stödja utvecklingen av 城果驗證器</string>
     <string name="about_title_special_features">Specialfunktioner</string>
     <string name="about_dialog_special_features">Är du säker på att du vill aktivera de speciella
         funktionerna? De flesta av dem är icke-standardiserade OTP-algoritmer som implementerades på speciella

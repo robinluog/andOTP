@@ -82,7 +82,7 @@
     <string name="settings_desc_special_features">Καταργήστε την επιλογή για να απενεργοποιήσετε ξανά τις ειδικές λειτουργίες</string>
     <string name="settings_desc_enable_screenshot">Επιτρέψτε τη λήψη στιγμιοτύπων στην αρχική οθόνη της συσκευή σας
         (απενεργοποιημένη από προεπιλογή για λόγους ασφαλείας)</string>
-    <string name="settings_desc_enable_android_backup_service">Ενεργοποίηση του andOTP για Android για χρήση
+    <string name="settings_desc_enable_android_backup_service">Ενεργοποίηση του 城果驗證器 για Android για χρήση
         ενσωματωμένης υπηρεσίας δημιουργίας αντιγράφων κλειδιών και προτιμήσεων</string>
     <string name="settings_desc_clear_keystore">Διαγραφή κλειδιού κρυπτογράφησης από το KeyStore</string>
     <!-- Toasts -->
@@ -108,7 +108,7 @@
     <string name="settings_dialog_title_error">Σφάλμα</string>
     <string name="settings_dialog_title_clear_keystore">Εκκαθάριση KeyStore;</string>
     <string name="settings_dialog_title_android_sync">Συγχρονισμός Android</string>
-    <string name="settings_dialog_msg_encryption_change">το andOTP θα προσπαθήσει τώρα να αλλάξει τη βάση δεδομένων
+    <string name="settings_dialog_msg_encryption_change">το 城果驗證器 θα προσπαθήσει τώρα να αλλάξει τη βάση δεδομένων
         κρυπτογράφησης. Σε περίπτωση αποτυχίας, θα γίνει επαναφορά από ένα εσωτερικό αντίγραφο ασφαλείας και η κρυπτογράφηση
         παραμένει αναλλοίωτη.\n\n<b>Ωστόσο, είναι πάντα καλή ιδέα να έχετε ένα αντίγραφο ασφαλείας σε περίπτωση που
         κάτι αναπάντεχο συμβεί!</b></string>

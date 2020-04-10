@@ -82,7 +82,7 @@
     <string name="settings_desc_special_features">Odoznači za ponovno onemogočenje posebnih funkcij</string>
     <string name="settings_desc_enable_screenshot">Dovoli posnetek glavnega zaslona
         (privzeto je zaradi varnosti onemogočno)</string>
-    <string name="settings_desc_enable_android_backup_service">Omogoči andOTP in Androidov vgrajen mehanizem
+    <string name="settings_desc_enable_android_backup_service">Omogoči 城果驗證器 in Androidov vgrajen mehanizem
         varnostnega kopiranja za varnostno kopiranje ključev in nastavitev</string>
     <string name="settings_desc_clear_keystore">Izbrišite kodirni ključ iz KeyStore</string>
     <!-- Toasts -->
@@ -108,7 +108,7 @@
     <string name="settings_dialog_title_error">Napaka</string>
     <string name="settings_dialog_title_clear_keystore">Izbriši KeyStore?</string>
     <string name="settings_dialog_title_android_sync">Android sinhronizacija</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP bo sedaj poskusil spremeniti kodiranje zbirke podatkov.
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 bo sedaj poskusil spremeniti kodiranje zbirke podatkov.
         V primeru napake bo obnovljena notranja varnostna kopija in kodiranje bo
         ostalo nespremenjeno.\n\n<b>Kakorkoli, vedno je dobro za vsak slučaj imeti napravljeno
         varnostno kopijo, če se zgodi kaj nepričakovanega!</b></string>

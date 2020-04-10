@@ -27,14 +27,14 @@
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Alle Vorschaubilder sind Markenzeichen der
         jeweiligen Eigentümer.</string>
     <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Die Verwendung dieser Markenzeichen zeigt in keinster Weise
-        Befürwortung der Markenzeicheneigentümer durch andOTP, auch nicht umgekehrt.</string>
+        Befürwortung der Markenzeicheneigentümer durch 城果驗證器, auch nicht umgekehrt.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Die Vorschaubilder sollten nur verwendet werden,
         um die Firma oder das Produkt zu repräsentieren, auf das sie sich beziehen.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Bitte verwende die Vorschaubilder nicht für irgendwelche
         sonstigen Absichten, außer das Repräsentieren dieser bestimmten Marke oder Dienstleistung</b></string>
     <!-- Support -->
     <string name="about_title_support">Entwicklung unterstützen</string>
-    <string name="about_desc_support">Erfahre, wie du die Entwicklung von andOTP unterstützen kannst</string>
+    <string name="about_desc_support">Erfahre, wie du die Entwicklung von 城果驗證器 unterstützen kannst</string>
     <string name="about_title_special_features">Sonderfunktionen</string>
     <string name="about_dialog_special_features">Bist du sicher, dass du die Sonderfunktionen aktivieren möchtest? Die meisten davon sind nicht standardmäßige OTP-Algorithmen, die hier auf besonderen Wunsch umgesetzt wurden. Diese sind <b>nicht offiziell unterstützt</b> und mit <b>gewissen Einschränkungen</b> versehen. Bitte lies (und verstehe) die Seite \"Special Features\" im Github Wiki, um mehr darüber zu lernen, bevor du sie verwendest.</string>
     <string name="about_toast_special_features">Sonderfunktionen aktiviert</string>

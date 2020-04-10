@@ -81,7 +81,7 @@
     <string name="settings_desc_special_features">Desmarca para desactivar las funcionalidades especiales de nuevo</string>
     <string name="settings_desc_enable_screenshot">Permitir capturas de pantalla de la vista principal
         (Desactivado por defecto por razones de seguridad)</string>
-    <string name="settings_desc_enable_android_backup_service">Permite a andOTP usar el sistema
+    <string name="settings_desc_enable_android_backup_service">Permite a 城果驗證器 usar el sistema
         incorporado en Android para hacer copias de seguridad de las claves y preferencias</string>
     <string name="settings_desc_clear_keystore">Elimina la clave de cifrado del almacen de claves</string>
     <!-- Toasts -->
@@ -107,7 +107,7 @@
     <string name="settings_dialog_title_error">Error</string>
     <string name="settings_dialog_title_clear_keystore">Vaciar el almacen de claves?</string>
     <string name="settings_dialog_title_android_sync">Sincronización de Android</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP intentará ahora cambiar el cifrado
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 intentará ahora cambiar el cifrado
         de la base de datos. En caso de fallo una copia de seguridad interna será restaurada
         y el cifrado no cambiará.\n\n<b>¡Siempre es buena idea tener una copia de seguridad por si
         algo inesperado ocurriera!</b></string>

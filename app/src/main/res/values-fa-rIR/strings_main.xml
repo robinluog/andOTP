@@ -49,7 +49,7 @@
     <string name="menu_popup_remove">حذف</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">مشکل در احراز هویت، لطفا دوباره امتحان کنید!</string>
-    <string name="toast_auth_failed_fatal">مشکل در احراز هویت، در حال بستن andOTP!</string>
+    <string name="toast_auth_failed_fatal">مشکل در احراز هویت، در حال بستن 城果驗證器!</string>
     <string name="toast_copied_to_clipboard">به حافظه موقت کپی شد</string>
     <string name="toast_entry_exists">این مورد از پیش وجود دارد</string>
     <string name="toast_invalid_qr_code">کد QR نامعتبر</string>
@@ -71,13 +71,13 @@
     <string name="dialog_title_enter_password">رمز عبور را وارد کنید</string>
     <string name="dialog_label_enter_password">رمز عبور را وارد کنید</string>
     <string name="dialog_label_confirm_password">تایید رمز عبور</string>
-    <string name="dialog_msg_auth">برای شروع andOTP لطفا اعتبارنامه دستگاه خود را وارد کنید.</string>
+    <string name="dialog_msg_auth">برای شروع 城果驗證器 لطفا اعتبارنامه دستگاه خود را وارد کنید.</string>
     <string name="dialog_msg_confirm_delete">آیا مطمئن هستید که می‌خواهید حساب «%1$s» را حذف کنید؟</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
-    <string name="dialog_msg_keystore_error">شکست در بارگیری کلید رمزگذاری از KeyStore. <b>هر موردی که اضافه شده از دست می‌رود</b>\n\n برای اینکه هنوز از andOTP استفاده کنید، شما می‌توانید به <b>تنظیمات</b> بروید و <b>رمزگذاری پایگاه داده</b> را به <b>رمز عبور / پین</b> تغییر دهید.</string>
+    <string name="dialog_msg_keystore_error">شکست در بارگیری کلید رمزگذاری از KeyStore. <b>هر موردی که اضافه شده از دست می‌رود</b>\n\n برای اینکه هنوز از 城果驗證器 استفاده کنید، شما می‌توانید به <b>تنظیمات</b> بروید و <b>رمزگذاری پایگاه داده</b> را به <b>رمز عبور / پین</b> تغییر دهید.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">اسکن کد QR</string>
     <string name="shortcut_name_import_qr">Import QR code</string>

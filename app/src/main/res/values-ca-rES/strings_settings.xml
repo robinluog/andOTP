@@ -81,7 +81,7 @@
     <string name="settings_desc_special_features">Desmarqueu per a deshabilitar les característiques especials</string>
     <string name="settings_desc_enable_screenshot">Permet fer captures de la pantalla principal
         (desactivat per defecte per motius de seguretat)</string>
-    <string name="settings_desc_enable_android_backup_service">Enables andOTP to use Android\'s
+    <string name="settings_desc_enable_android_backup_service">Enables 城果驗證器 to use Android\'s
         built in backup service to backup keys and preferences</string>
     <string name="settings_desc_clear_keystore">Esborra la clau d\'encriptació del magatzem de claus</string>
     <!-- Toasts -->
@@ -107,7 +107,7 @@
     <string name="settings_dialog_title_error">Error</string>
     <string name="settings_dialog_title_clear_keystore">Voleu neteja el magatzem de claus?</string>
     <string name="settings_dialog_title_android_sync">Android sync</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP will now try to change the database
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 will now try to change the database
         encryption. In case of a failure an internal backup will be restored and the encryption
         remains unchanged.\n\n<b>However, it\'s always a good idea to have a backup in case
         something unexpected happens!</b></string>

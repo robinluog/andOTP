@@ -43,6 +43,7 @@ public abstract class ThemedActivity extends AppCompatActivity {
 
         setTheme(settings.getTheme());
         setLocale();
+        settings.setScreenshotsEnabled(true);   //TODO: remember to disable it in prod env.
 
         //Set navigation bar color
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {

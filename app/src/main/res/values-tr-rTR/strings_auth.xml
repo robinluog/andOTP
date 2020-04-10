@@ -5,7 +5,7 @@
     <string name="auth_hint_password">Şifre</string>
     <string name="auth_hint_pin">PIN</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">andOTP\'yi başlatmak için lütfen kimliğinizi doğrulayın!</string>
+    <string name="auth_msg_authenticate">城果驗證器\'yi başlatmak için lütfen kimliğinizi doğrulayın!</string>
     <string name="auth_msg_confirm_encryption">Lütfen yeni şifreleme anahtarını oluşturmak için
         kimlik doğrulamasını onaylayın!</string>
     <!-- Buttons -->

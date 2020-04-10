@@ -49,7 +49,7 @@
     <string name="menu_popup_remove">Eltávolítás</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">A hitelesítés nem sikerült. Kérem próbáld újra!</string>
-    <string name="toast_auth_failed_fatal">A hitelesítés sikertelen, az andOTP bezárul!</string>
+    <string name="toast_auth_failed_fatal">A hitelesítés sikertelen, az 城果驗證器 bezárul!</string>
     <string name="toast_copied_to_clipboard">Vágólapra másolva</string>
     <string name="toast_entry_exists">Ez a bejegyzés már létezik</string>
     <string name="toast_invalid_qr_code">Hibás QR kód</string>
@@ -71,14 +71,14 @@
     <string name="dialog_title_enter_password">Jelszó megadása</string>
     <string name="dialog_label_enter_password">Jelszó megadása</string>
     <string name="dialog_label_confirm_password">Jelszó megerősítése</string>
-    <string name="dialog_msg_auth">Kérjük, adja meg a készülék hitelesítő adatait az andOTP indításához.</string>
+    <string name="dialog_msg_auth">Kérjük, adja meg a készülék hitelesítő adatait az 城果驗證器 indításához.</string>
     <string name="dialog_msg_confirm_delete">Biztosan törölni szeretné a %1$s\" fiókot?</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
     <string name="dialog_msg_keystore_error">Nem sikerült betölteni a titkosítási kulcsot a KeyStore-ból.
-         <b> Az újonnan hozzáadott bejegyzések eltűnnek. </b> \n\nHa továbbra is használni szeretné  az andOTP-t, 
+         <b> Az újonnan hozzáadott bejegyzések eltűnnek. </b> \n\nHa továbbra is használni szeretné  az 城果驗證器-t,
           akkor a <b> Beállítások </b> alatt, leválthatja <b> Adatbázis-titkosítást </b> <b> Jelszó / PIN  kódra</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">QR kód beolvasása</string>

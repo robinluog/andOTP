@@ -83,7 +83,7 @@
     <string name="settings_dialog_title_error">त्रुटि</string>
     <string name="settings_dialog_title_clear_keystore">कुंजी स्टोर साफ़ करें?</string>
     <string name="settings_dialog_title_android_sync">एंड्रॉयड समन्वयन</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP अब डेटाबेस कूटलेखन को बदलने की कोशिश करेगा। एक विफलता के मामले में एक आंतरिक बैकअप बहाल किया जाएगा और कूटलेखन अपरिवर्तित रहेगा।\n\n<b>हालाँकि, किसी अनपेक्षित स्थिति में बैकअप का होना हमेशा एक अच्छा विचार है!</b></string>
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 अब डेटाबेस कूटलेखन को बदलने की कोशिश करेगा। एक विफलता के मामले में एक आंतरिक बैकअप बहाल किया जाएगा और कूटलेखन अपरिवर्तित रहेगा।\n\n<b>हालाँकि, किसी अनपेक्षित स्थिति में बैकअप का होना हमेशा एक अच्छा विचार है!</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">आप केवल तब तक पासवर्ड या पिन का उपयोग कर सकते हैं जब तक डेटाबेस एन्क्रिप्शन \"पासवर्ड / पिन\" पर सेट हो!</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">आपको पहले \"पासवर्ड\" या \"पिन\" के लिए प्रमाणीकरण सेट करने की आवश्यकता है!</string>
     <string name="settings_dialog_msg_encryption_invalid_without_credentials">एन्क्रिप्शन बदलने से पहले आपको पासवर्ड या पिन सेट करना होगा!</string>

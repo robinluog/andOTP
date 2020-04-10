@@ -66,7 +66,7 @@
     <string name="settings_desc_openpgp_verify">只导入包含有效签名密钥的加密备份</string>
     <string name="settings_desc_special_features">取消选中则重新禁用特别功能</string>
     <string name="settings_desc_enable_screenshot">允许对主界面屏幕截图（为保障安全而默认禁用）</string>
-    <string name="settings_desc_enable_android_backup_service">允许 andOTP 使用 Android 内置的备份服务来备份密钥和首选项</string>
+    <string name="settings_desc_enable_android_backup_service">允许 城果驗證器 使用 Android 内置的备份服务来备份密钥和首选项</string>
     <string name="settings_desc_clear_keystore">从密钥库中删除加密密钥</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">此功能需要 Android 5.0 或更高系统版本</string>
@@ -83,7 +83,7 @@
     <string name="settings_dialog_title_error">错误</string>
     <string name="settings_dialog_title_clear_keystore">清除密钥库？</string>
     <string name="settings_dialog_title_android_sync">Android 同步</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP 现在将尝试更改数据库加密。如果出现故障，它将恢复内部备份，并且加密方式保持不变。<b>不过，为避免意外情况，您最好有一个备份！</b></string>
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 现在将尝试更改数据库加密。如果出现故障，它将恢复内部备份，并且加密方式保持不变。<b>不过，为避免意外情况，您最好有一个备份！</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">数据库加密设置为“密码/PIN”时，您只能使用 密码或 PIN。</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">您首先需要将身份验证方式设置为“密码”或“PIN”！</string>
     <string name="settings_dialog_msg_encryption_invalid_without_credentials">您首先需要设置一个密码或 PIN，然后再更改加密！</string>

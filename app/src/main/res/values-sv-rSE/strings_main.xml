@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Ta bort</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Autentisering misslyckades, vänligen försök igen!</string>
-    <string name="toast_auth_failed_fatal">Autentisering misslyckades, stänger andOTP!</string>
+    <string name="toast_auth_failed_fatal">Autentisering misslyckades, stänger 城果驗證器!</string>
     <string name="toast_copied_to_clipboard">Kopierat till urklipp</string>
     <string name="toast_entry_exists">Denna post finns redan</string>
     <string name="toast_invalid_qr_code">Ogiltig QR-kod</string>
@@ -70,14 +70,14 @@
     <string name="dialog_title_enter_password">Ange lösenord</string>
     <string name="dialog_label_enter_password">Ange lösenord</string>
     <string name="dialog_label_confirm_password">Bekräfta lösenord</string>
-    <string name="dialog_msg_auth">Ange dina enhetsuppgifter för att starta andOTP.</string>
+    <string name="dialog_msg_auth">Ange dina enhetsuppgifter för att starta 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Är du säker på att du vill ta bort kontot \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">För att andOTP ska känna igen vilka symbole som används måste du
+    <string name="dialog_msg_used_tokens">För att 城果驗證器 ska känna igen vilka symbole som används måste du
         antingen ha ”Klicka för att avslöja” aktiverat eller använda kopieringsknappen. Detta gäller
         både för sortering av symbolerna enligt ”mest använda” och och enligt ”senast använda”.
         \n\nDetta meddelande kommer inte att visas igen.</string>
     <string name="dialog_msg_keystore_error">Det gick inte att läsa in krypteringsnyckeln från KeyStore.
-        <b>Alla poster som läggs till kommer att gå förlorade.</b>\n\nFör att fortfarande kunna använda andOTP kan du gå
+        <b>Alla poster som läggs till kommer att gå förlorade.</b>\n\nFör att fortfarande kunna använda 城果驗證器 kan du gå
         till <b>Inställningar</b> och byta <b>Databas-kryptering</b> till <b>Lösenord / PIN-kod</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Skanna QR-kod</string>

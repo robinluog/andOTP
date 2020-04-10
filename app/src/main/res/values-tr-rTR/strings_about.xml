@@ -25,12 +25,12 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">Küçük resimlerin telifleri hakkında</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> tüm küçük resimler temsil ettikleri şirket veya kuruluşun telifleri altındadır.</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> bu resimlerin kullanımı, resmin sahibi şirket veya kuruluşun andOTP tarafından, veya tam tersi yönde reklamı yapıldığı  anlamına gelmemektedir.</string>
+    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> bu resimlerin kullanımı, resmin sahibi şirket veya kuruluşun 城果驗證器 tarafından, veya tam tersi yönde reklamı yapıldığı  anlamına gelmemektedir.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> küçük resimler sadece sahipleri olan şirket veya kuruluşu temsil etmek için kullanılmaktadır.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Lütfen ilgili şirket veya kuruluşu temsil etme amacı dışında herhangi bir amaç için küçük resimleri kullanmayın.</b></string>
     <!-- Support -->
     <string name="about_title_support">Geliştiriciyi Destekle</string>
-    <string name="about_desc_support">andOTP\'nin geliştirilmesini nasıl destekleyebileceğinizi öğrenin</string>
+    <string name="about_desc_support">城果驗證器\'nin geliştirilmesini nasıl destekleyebileceğinizi öğrenin</string>
     <string name="about_title_special_features">Özel Seçenekler</string>
     <string name="about_dialog_special_features">Bu özel 
         içerikleri etkinleştirmek istediğinizden emin misiniz? Çoğu özel 

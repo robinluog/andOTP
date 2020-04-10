@@ -27,14 +27,14 @@
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Todas as imaxes son marcas rexistradas dos
         seus respectivos donos.</string>
     <string name="about_thumbnails_disclaimer_no2"><b>2.</b> A utilización de estas marcas rexistradas non
-        representa unha recomendación de dita marca por parte de andOTP, nin viceversa.</string>
+        representa unha recomendación de dita marca por parte de 城果驗證器, nin viceversa.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> As imaxes só deberán ser utilizadas para
         representar a empresa ou producto aos que se refiren.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Por favor non utilice estas imaxes para ningún propósito
         excepto representar unha marca ou servizo particulares.</b></string>
     <!-- Support -->
     <string name="about_title_support">Apoiar o desenvolvemento</string>
-    <string name="about_desc_support">Descubre como podes axudar ao desenvolvemento de andOTP</string>
+    <string name="about_desc_support">Descubre como podes axudar ao desenvolvemento de 城果驗證器</string>
     <string name="about_title_special_features">Funcionalidades especiais</string>
     <string name="about_dialog_special_features">Queres activar as funcionalidades
         especiais? A maioría delas son algoritmos OTP non estándar que foron implementados por petición

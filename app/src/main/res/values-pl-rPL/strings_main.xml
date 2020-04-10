@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Usuń</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Uwierzytelnianie nie powiodło się, proszę spróbować ponownie</string>
-    <string name="toast_auth_failed_fatal">Uwierzytelnianie nie powiodło się, zamykanie andOTP</string>
+    <string name="toast_auth_failed_fatal">Uwierzytelnianie nie powiodło się, zamykanie 城果驗證器</string>
     <string name="toast_copied_to_clipboard">Skopiowano do schowka</string>
     <string name="toast_entry_exists">Takie konto już istnieje</string>
     <string name="toast_invalid_qr_code">Nieprawidłowy kod QR</string>
@@ -70,13 +70,13 @@
     <string name="dialog_title_enter_password">Wprowadź hasło</string>
     <string name="dialog_label_enter_password">Wprowadź hasło</string>
     <string name="dialog_label_confirm_password">Potwierdź hasło</string>
-    <string name="dialog_msg_auth">Podaj swoje dane uwierzytelniające, aby uruchomić andOTP.</string>
+    <string name="dialog_msg_auth">Podaj swoje dane uwierzytelniające, aby uruchomić 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Czy na pewno chcesz usunąć konto „%1$s”?</string>
-    <string name="dialog_msg_used_tokens">Aby andOTP mógł rozpoznać, które tokeny są używane,
+    <string name="dialog_msg_used_tokens">Aby 城果驗證器 mógł rozpoznać, które tokeny są używane,
         trzeba włączyć opcję \"kliknij, aby odkryć\" lub użyć przycisku kopiowania. Dotyczy to
         sortowanie tokenów wg \"najczęściej używane\" oraz \"ostatnio używane\".\n\nTa wiadomość
         nie będzie pokazywana ponownie.</string>
-    <string name="dialog_msg_keystore_error">Nie udało się wczytać klucza szyfrowania z KeyStore. <b>Wszystkie nowo dodane konta zostaną utracone.</b>\n\nAby móc dalej korzystać z andOTP, należy przejść do <b>Ustawień</b> i zmienić opcję <b>Szyfrowanie bazy danych</b> na <b>Hasło / kod PIN</b>.</string>
+    <string name="dialog_msg_keystore_error">Nie udało się wczytać klucza szyfrowania z KeyStore. <b>Wszystkie nowo dodane konta zostaną utracone.</b>\n\nAby móc dalej korzystać z 城果驗證器, należy przejść do <b>Ustawień</b> i zmienić opcję <b>Szyfrowanie bazy danych</b> na <b>Hasło / kod PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Skanuj kod QR</string>
     <string name="shortcut_name_import_qr">Importuj kod QR</string>

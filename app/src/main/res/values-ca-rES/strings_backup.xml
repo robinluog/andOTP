@@ -19,7 +19,7 @@
     <string name="backup_desc_import_plain">Restaura els comptes d\'un fitxer de text net JSON</string>
     <string name="backup_desc_import_crypt">Restaura els comptes d\'un fitxer JSON protegit amb contrasenya</string>
     <string name="backup_desc_import_crypt_old">Restaura el conte desde un ficher JSON protegit amb contrasenya
-        creat amb <b>una versió de andOTP prévia a 0.6.3</b></string>
+        creat amb <b>una versió de 城果驗證器 prévia a 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Restaura els comptes d\'un fitxer JSON xifrat amb OpenPGP</string>
     <string name="backup_desc_crypt_setup">Failed to load the backup password from the <b>Settings</b>,
         this either means no password was set or something went wrong. You will be asked to enter
@@ -52,7 +52,7 @@
     <string name="backup_receiver_custom_encryption_failed">Password/PIN based encryption not
         supported with broadcast backup</string>
     <string name="backup_new_format_dialog_title">New encryption method</string>
-    <string name="backup_new_format_dialog_msg">Since version 0.6.3 of andOTP, a <b>new and improved
+    <string name="backup_new_format_dialog_msg">Since version 0.6.3 of 城果驗證器, a <b>new and improved
         encryption method</b> is used for password-protected backups. The old backups can still be
         imported, but it is <b>highly recommended to create new backups with the improved
         encryption</b>.\n\nThis message will not be shown again.</string>

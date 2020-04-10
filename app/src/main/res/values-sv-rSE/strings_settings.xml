@@ -82,7 +82,7 @@
     <string name="settings_desc_special_features">Avmarkera för att inaktivera specialfunktionerna igen</string>
     <string name="settings_desc_enable_screenshot">Tillåt att ta skärmdumpar av huvudskärmen
         (inaktiverad som standard av säkerhetsskäl)</string>
-    <string name="settings_desc_enable_android_backup_service">Aktivera andOTP att använda Androids
+    <string name="settings_desc_enable_android_backup_service">Aktivera 城果驗證器 att använda Androids
         inbyggda säkerhetskopieringstjänst för att säkerhetskopiera nycklar och inställningar</string>
     <string name="settings_desc_clear_keystore">Radera krypteringsnyckeln från KeyStore</string>
     <!-- Toasts -->
@@ -108,7 +108,7 @@
     <string name="settings_dialog_title_error">Fel</string>
     <string name="settings_dialog_title_clear_keystore">Rensa KeyStore?</string>
     <string name="settings_dialog_title_android_sync">Android-synkronisering</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP kommer nu att försöka ändra databas-
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 kommer nu att försöka ändra databas-
         krypteringen. Vid ett fel återställs en intern säkerhetskopia och krypteringen
         förblir oförändrad.\n\n<b>Det är dock alltid en bra idé att ha en säkerhetskopia om
         något oväntat händer!</b></string>

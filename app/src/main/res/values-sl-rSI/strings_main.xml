@@ -49,7 +49,7 @@
     <string name="menu_popup_remove">Odstrani</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Prišlo je do napake pri preverjanju vaše identitete. Prosimo, poskusite ponovno!</string>
-    <string name="toast_auth_failed_fatal">Preverjanje pristnosti ni uspelo, andOTP se zapira!</string>
+    <string name="toast_auth_failed_fatal">Preverjanje pristnosti ni uspelo, 城果驗證器 se zapira!</string>
     <string name="toast_copied_to_clipboard">Kopirano v odložišče</string>
     <string name="toast_entry_exists">Ta vnos že obstaja</string>
     <string name="toast_invalid_qr_code">Neveljavna QR koda</string>
@@ -71,14 +71,14 @@
     <string name="dialog_title_enter_password">Vnesite geslo</string>
     <string name="dialog_label_enter_password">Vnesite geslo</string>
     <string name="dialog_label_confirm_password">Potrdite geslo</string>
-    <string name="dialog_msg_auth">Prosim, vnesite podatke o napravi za zagon andOTP.</string>
+    <string name="dialog_msg_auth">Prosim, vnesite podatke o napravi za zagon 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Ali res želite odstraniti %1$s?</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
     <string name="dialog_msg_keystore_error">Napaka pri nalaganju šifrirnega ključa iz KeyStore.
-        <b>Vsi vnosi, ki bodo dodani, bodo izgubljeni.</b>\n\nZa nadaljnjo uporabo andOTP lahko greste
+        <b>Vsi vnosi, ki bodo dodani, bodo izgubljeni.</b>\n\nZa nadaljnjo uporabo 城果驗證器 lahko greste
         pod <b>Nastavitve</b> in spremenite <b>Šifriranje zbirke podatkov</b> v <b>Geslo / PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Skeniraj QR kodo</string>

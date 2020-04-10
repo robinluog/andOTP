@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">移除</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">認證失敗，請再試一次！</string>
-    <string name="toast_auth_failed_fatal">認證失敗，andOTP 正在關閉！</string>
+    <string name="toast_auth_failed_fatal">認證失敗，城果驗證器 正在關閉！</string>
     <string name="toast_copied_to_clipboard">複製到剪貼簿</string>
     <string name="toast_entry_exists">這筆項目已經存在</string>
     <string name="toast_invalid_qr_code">無效的 QR Code</string>
@@ -70,13 +70,13 @@
     <string name="dialog_title_enter_password">請輸入密碼</string>
     <string name="dialog_label_enter_password">輸入密碼</string>
     <string name="dialog_label_confirm_password">確認密碼</string>
-    <string name="dialog_msg_auth">請鍵入設備憑證來開啟 andOTP。</string>
+    <string name="dialog_msg_auth">請鍵入設備憑證來開啟 城果驗證器。</string>
     <string name="dialog_msg_confirm_delete">確認要移除帳戶「%1$s」嗎？</string>
-    <string name="dialog_msg_used_tokens">為了讓 andOTP 識別使用了哪些權杖，
+    <string name="dialog_msg_used_tokens">為了讓 城果驗證器 識別使用了哪些權杖，
         您必須啟用「點擊顯示」或使用複製按鈕。這會套用到
         「最常使用」與「最近使用」排序。\n\n此訊息將不會
         再次顯示。</string>
-    <string name="dialog_msg_keystore_error">無法從金鑰庫載入加密金鑰。<b>所有條目都將丟失</b>。\n\n仍要使用 andOTP，您可前往<b>設定</b>將<b>資料庫加密方式</b>切換為<b>密碼/PIN</b>。</string>
+    <string name="dialog_msg_keystore_error">無法從金鑰庫載入加密金鑰。<b>所有條目都將丟失</b>。\n\n仍要使用 城果驗證器，您可前往<b>設定</b>將<b>資料庫加密方式</b>切換為<b>密碼/PIN</b>。</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">掃描 QR 碼</string>
     <string name="shortcut_name_import_qr">匯入 QR code</string>

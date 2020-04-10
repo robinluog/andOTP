@@ -72,7 +72,7 @@
     <string name="settings_desc_openpgp_verify">Les sauvegardes chiffrées ne sont restaurées que lorsqu\'elles sont signées avec une clé valide</string>
     <string name="settings_desc_special_features">Décochez pour désactiver les fonctionnalités spéciales</string>
     <string name="settings_desc_enable_screenshot">Permettre de prendre des copies d\'écran de la vue principale (désactivé par défaut pour des raisons de sécurité)</string>
-    <string name="settings_desc_enable_android_backup_service">Permet à AndOTP d\'utiliser le service de sauvegarde Android natif pour la sauvegarde des clés et préférences</string>
+    <string name="settings_desc_enable_android_backup_service">Permet à 城果驗證器 d\'utiliser le service de sauvegarde Android natif pour la sauvegarde des clés et préférences</string>
     <string name="settings_desc_clear_keystore">Supprimer la clé de chiffrement depuis le KeyStore</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">Cette fonctionnalité n\'est disponible que sur Android 5.0 (Lollipop) ou supérieur</string>
@@ -90,7 +90,7 @@
     <string name="settings_dialog_title_error">Erreur</string>
     <string name="settings_dialog_title_clear_keystore">Vider le KeyStore ?</string>
     <string name="settings_dialog_title_android_sync">Synchronisation Android</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP va maintenant essayer de changer le chiffrement de la base de données. En cas d\'échec, une sauvegarde interne sera restaurée et le chiffrement restera inchangé.\n\n<b>Cependant, c’est toujours une bonne idée d’avoir une sauvegarde au cas où quelque chose d’inattendu arrive !</b></string>
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 va maintenant essayer de changer le chiffrement de la base de données. En cas d\'échec, une sauvegarde interne sera restaurée et le chiffrement restera inchangé.\n\n<b>Cependant, c’est toujours une bonne idée d’avoir une sauvegarde au cas où quelque chose d’inattendu arrive !</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">Vous pouvez seulement utiliser un mot de passe ou un code PIN si
         le chiffrement de la base de données est défini sur \"Mot de passe / Code PIN\" !</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">Vous devez d\'abord définir

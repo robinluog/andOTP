@@ -26,12 +26,12 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">Notice légale abrégée</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Toutes les icônes sont des marques déposées de leur propriétaires respectifs.</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> L\'utilisation de ces marques déposées n\'implique pas l\'approbation d\'andOTP pour ces marques et réciproquement.</string>
+    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> L\'utilisation de ces marques déposées n\'implique pas l\'approbation d\'城果驗證器 pour ces marques et réciproquement.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Les icônes ne doivent être utilisées que pour représenter l\'entreprise ou le produit auquel elles font référence.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Veillez à ne pas utiliser les icônes pour d\'autre raisons que la représentation de ces marques ou services déterminés.</b></string>
     <!-- Support -->
     <string name="about_title_support">Aider au développement</string>
-    <string name="about_desc_support">Découvrez comment soutenir le développement d’andOTP</string>
+    <string name="about_desc_support">Découvrez comment soutenir le développement d’城果驗證器</string>
     <string name="about_title_special_features">Fonctionnalités spéciales</string>
     <string name="about_dialog_special_features">Êtes-vous certain de vouloir activer les fonctionnalités spéciales? La plupart d\'entre elles sont des algorithmes OTP non standard qui ont été implémentés pour des demandes spécifiques. Elles ne sont <b>pas supportées officiellement</b> et peuvent venir avec <b>certaines limitations</b>. Veuillez consulter (et comprendre) la page « Fonctionnalités spéciales » sur le wiki du GitHub pour en apprendre d\'avantage avant de les utiliser.</string>
     <string name="about_toast_special_features">Fonctionnalités spéciales activées</string>

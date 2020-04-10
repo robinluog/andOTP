@@ -18,7 +18,7 @@
     <string name="backup_desc_import_plain">Herstel accounts vanuit een JSON tekstbestand</string>
     <string name="backup_desc_import_crypt">Herstel alle accounts vanuit een JSON-bestand met wachtwoordbeveiliging</string>
     <string name="backup_desc_import_crypt_old">Herstel accounts vanuit een met een wachtwoord beveiligd JSON-bestand
-        gemaakt met een <b>andOTP versie lager dan 0.6.3</b></string>
+        gemaakt met een <b>城果驗證器 versie lager dan 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Herstel accounts vanuit een OpenPGP versleuteld JSON-bestand</string>
     <string name="backup_desc_crypt_setup">Fout bij het laden van het reservekopiewachtwoord via <b>Instellingen</b>,
         Dit betekent ofwel dat er geen wachtwoord is ingesteld of er is iets misgegaan. U wordt gevraagd om
@@ -38,7 +38,7 @@
     <string name="backup_receiver_write_permission_failed">Geen machtiging tot schrijven verleend, gelieve dit te doen voordat je een reservekopie maakt</string>
     <string name="backup_receiver_custom_encryption_failed">Versleuteling op basis van wachtwoord/pincode wordt niet ondersteund bij reservekopieën gemaakt op afstand</string>
     <string name="backup_new_format_dialog_title">Nieuwe versleutelingsmethode</string>
-    <string name="backup_new_format_dialog_msg">Sinds versie 0.6.3 van andOTP,  wordt er een <b>nieuwe en verbeterde
+    <string name="backup_new_format_dialog_msg">Sinds versie 0.6.3 van 城果驗證器,  wordt er een <b>nieuwe en verbeterde
         versleutelingsmethode</b> gebruikt voor wachtwoordbeveiligde reservekopieën. Oude reservekopieën kunnen nog steeds
         worden geïmporteerd, maar het is <b>aanbevolen om nieuwe reservekopieën te maken met de verbeterde
         versleuteling</b>.\n\nDit bericht zal niet meer worden weergegeven.</string>

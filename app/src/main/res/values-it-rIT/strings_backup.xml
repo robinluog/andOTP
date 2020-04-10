@@ -50,7 +50,7 @@
     <string name="backup_receiver_custom_encryption_failed">Crittografia basata su password / PIN
         non supportata con backup broadcast</string>
     <string name="backup_new_format_dialog_title">Nuovo metodo di cifratura</string>
-    <string name="backup_new_format_dialog_msg">Dalla versione 0.6.3 di andOTP è stato aggiunto un nuovo e migliore metodo di cifratura, usato per i backup protetti da password. I vecchi backup possono ancora essere importati, ma è altamente consigliata la creazione di nuovi backup con le funzionalità migliorate di cifratura. Questo messaggio non sarà visualizzato nuovamente.</string>
+    <string name="backup_new_format_dialog_msg">Dalla versione 0.6.3 di 城果驗證器 è stato aggiunto un nuovo e migliore metodo di cifratura, usato per i backup protetti da password. I vecchi backup possono ancora essere importati, ma è altamente consigliata la creazione di nuovi backup con le funzionalità migliorate di cifratura. Questo messaggio non sarà visualizzato nuovamente.</string>
     <!-- Notification channels -->
     <string name="notification_channel_name_backup_failed">Backup automatico fallito</string>
     <string name="notification_channel_name_backup_success">Backup automatico eseguito con successo</string>

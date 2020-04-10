@@ -26,7 +26,7 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">Oznanilo sličic</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Vse sličice so blagovne znamke njihovih lastnikov.</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Uporaba teh blagovnih znamk ne nakazujejo niti andOTP
+    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Uporaba teh blagovnih znamk ne nakazujejo niti 城果驗證器
         podpore imetniku blagovne znamke niti obratno.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Sličice so uporabljanje samo za
         predstavitev podjetja ali izdelka na katerega se nanašajo.</string>
@@ -34,7 +34,7 @@
         predstavljanje določene blagovne znamke ali storitve.</b></string>
     <!-- Support -->
     <string name="about_title_support">Podprite razvoj</string>
-    <string name="about_desc_support">Find out how you can support the development of andOTP</string>
+    <string name="about_desc_support">Find out how you can support the development of 城果驗證器</string>
     <string name="about_title_special_features">Posebne funkcije</string>
     <string name="about_dialog_special_features">Ali ste prepričani, da želite omogočiti posebne funkcije?
         Večina so nestandardni OTP algoritmi, ki so bili narejeni na posebno zahtevo.

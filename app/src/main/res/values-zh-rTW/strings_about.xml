@@ -25,7 +25,7 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">縮圖免責聲明</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> 所有縮圖是其各自擁有者的商標</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> 這些商標的使用並不意味著 andOTP 對商標持有者的認可，反之亦然。</string>
+    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> 這些商標的使用並不意味著 城果驗證器 對商標持有者的認可，反之亦然。</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> 縮圖只應用於代表他們所指的公司或產品。</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. 除了代表特定的品牌或服務外，請不要使用為任何目的而使用縮圖</b></string>
     <!-- Support -->

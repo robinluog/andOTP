@@ -27,14 +27,14 @@
     <string name="about_title_thumbnail_disclaimer">Bélyegkép vélemény</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Az összes bélyegkép a tulajdonosuk védjegye.</string>
     <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Ezen védjegyek használata nem
-         jelzi a védjegyjogosultnak az andOTP által történő jóváhagyását, és nem fordítva.</string>
+         jelzi a védjegyjogosultnak az 城果驗證器 által történő jóváhagyását, és nem fordítva.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> A bélyegképek csak arra használódnak, hogy
          képviseljék azt a vállalatot vagy terméket, amelyre vonatkoznak.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Kérjük, ne használja a bélyegképeket
          más célra, kivéve az adott márkát vagy szolgáltatást.</b></string>
     <!-- Support -->
     <string name="about_title_support">Támogassa a fejlesztést</string>
-    <string name="about_desc_support">Find out how you can support the development of andOTP</string>
+    <string name="about_desc_support">Find out how you can support the development of 城果驗證器</string>
     <string name="about_title_special_features">Speciális tulajdonságok</string>
     <string name="about_dialog_special_features">Biztos benne hogy szeretné engedélyezni a speciális tulajdonságokat?  A javuk nem szokványos OTP algoritmus melyek bekerültek különleges kérésre. Ezek <b> nem hivatalosan támogatottak </b> és <b> különböző korlátozásokkal jöhetnek </b> kérem olvassa (és értse meg) az oldalt \"Speciális tulajdonságok\" a Github 
 wiki-n hogy többet tudhasson meg a használatukról.</string>

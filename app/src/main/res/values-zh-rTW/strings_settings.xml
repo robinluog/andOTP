@@ -70,7 +70,7 @@
     <string name="settings_desc_openpgp_verify">僅匯入有效金鑰簽署的加密備份</string>
     <string name="settings_desc_special_features">取消選中以再次禁用特殊功能</string>
     <string name="settings_desc_enable_screenshot">允許擷取主畫面（因安全考量 預設為禁用）</string>
-    <string name="settings_desc_enable_android_backup_service">使 andOTP 能夠使用 Android 內建的備份服務來備份金鑰和偏好設定</string>
+    <string name="settings_desc_enable_android_backup_service">使 城果驗證器 能夠使用 Android 內建的備份服務來備份金鑰和偏好設定</string>
     <string name="settings_desc_clear_keystore">從金鑰庫中刪除加密金鑰</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">此功能需在 Android L（5.0）及以上系統運作</string>
@@ -87,7 +87,7 @@
     <string name="settings_dialog_title_error">錯誤</string>
     <string name="settings_dialog_title_clear_keystore">確定要清除金鑰庫碼？</string>
     <string name="settings_dialog_title_android_sync">Android 同步處理</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP 現將嘗試更改資料庫加密方式。假若出現故障，將回復至內部備份，加密方式保持不變。\n\n<b>但是，常言有備無患 -- 在執行變更前先備份，方能運籌帷幄、化險為夷！</b></string>
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 現將嘗試更改資料庫加密方式。假若出現故障，將回復至內部備份，加密方式保持不變。\n\n<b>但是，常言有備無患 -- 在執行變更前先備份，方能運籌帷幄、化險為夷！</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">資料庫加密方式設定為「密碼/PIN」時，身分認證方式僅可使用「密碼」或「PIN」！</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">您首先需要將身分認證方式設定為「密碼」或「PIN」！</string>
     <string name="settings_dialog_msg_encryption_invalid_without_credentials">在變更加密方式前，您需設定「密碼」或「PIN」！</string>

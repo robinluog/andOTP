@@ -77,7 +77,7 @@ ile yedeklenebileceğini seçin</string>
     <string name="settings_desc_special_features">Özel içerikleri devre dışı bırakmak için onayı kaldırın</string>
     <string name="settings_desc_enable_screenshot">Ana  ekranın ekran görüntüsü alınmasına izi ver
         (güvenlik nedenleriyle varsayılan olarak etkin değildir)</string>
-    <string name="settings_desc_enable_android_backup_service">andOTP\'nin anahtar ve ayarları yedeklemek için Android\'in dahili yedekleme servisini kullanmasını etkinleştirir</string>
+    <string name="settings_desc_enable_android_backup_service">城果驗證器\'nin anahtar ve ayarları yedeklemek için Android\'in dahili yedekleme servisini kullanmasını etkinleştirir</string>
     <string name="settings_desc_clear_keystore">KeyStore\'dan iifreleme anahtarını silin</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">Bu özelliği kullanabilmek içim en az Android 5.0 
@@ -102,7 +102,7 @@ ilk haline dönülüyor!</string>
     <string name="settings_dialog_title_error">Hata</string>
     <string name="settings_dialog_title_clear_keystore">KeyStore\'u temizle?</string>
     <string name="settings_dialog_title_android_sync">Android sync (Google)</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP şimdi veritabanı şifreleme metodunu değiştirmeye çalışacak. Olası bir hata karşısında
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 şimdi veritabanı şifreleme metodunu değiştirmeye çalışacak. Olası bir hata karşısında
 dahili yedeklerden biri geri yüklenecek ve de şifreleme metodu değiştirimeyecek.\n\n<b>Lakin,
 beklenmedik durumlar karşısında her zaman bir yedek barındırmak iyi bir alışkanlık!</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">Veritabanı şifrelemesi \"Şifre / PIN\" olarak ayarlandığı sürece

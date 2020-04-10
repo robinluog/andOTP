@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">andOTP</string>
+    <string name="app_name" translatable="false">城果驗證器</string>
 
     <!-- Buttons -->
     <string name="button_cancel">Cancel</string>
@@ -60,7 +60,7 @@
 
     <!-- Toast messages -->
     <string name="toast_auth_failed">Authentication failed, please try again!</string>
-    <string name="toast_auth_failed_fatal">Authentication failed, closing andOTP!</string>
+    <string name="toast_auth_failed_fatal">Authentication failed, closing 城果驗證器!</string>
     <string name="toast_copied_to_clipboard">Copied to clipboard</string>
     <string name="toast_entry_exists">This entry already exists</string>
     <string name="toast_invalid_qr_code">Invalid QR Code</string>
@@ -86,16 +86,16 @@
     <string name="dialog_label_enter_password">Enter password</string>
     <string name="dialog_label_confirm_password">Confirm password</string>
 
-    <string name="dialog_msg_auth">Please enter your device credentials to start andOTP.</string>
+    <string name="dialog_msg_auth">Please enter your device credentials to start 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Are you sure you want do remove the account \"%1$s\"?</string>
 
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
 
     <string name="dialog_msg_keystore_error">Failed to load the encryption key from the KeyStore.
-        <b>Any entries that are added will get lost.</b>\n\nTo still be able to use andOTP you can go
+        <b>Any entries that are added will get lost.</b>\n\nTo still be able to use 城果驗證器 you can go
         to the <b>Settings</b> and switch the <b>Database encryption</b> to <b>Password / PIN</b>.</string>
 
     <!-- Shortcuts -->

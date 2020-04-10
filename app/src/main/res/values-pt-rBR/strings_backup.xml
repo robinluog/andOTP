@@ -19,7 +19,7 @@
     <string name="backup_desc_import_plain">Restaurar contas de um arquivo JSON desprotegido</string>
     <string name="backup_desc_import_crypt">Restaurar contas de um arquivo JSON protegido por senha</string>
     <string name="backup_desc_import_crypt_old">Recupere contas de um arquivo JSON protegido por senha
-        criado com uma <b>versão do andOTP menor que a 0.6.3</b></string>
+        criado com uma <b>versão do 城果驗證器 menor que a 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Restaurar contas de um arquivo JSON criptografado com OpenPGP</string>
     <string name="backup_desc_crypt_setup">Falha ao carregar a senha de backup de <b>Configurações</b>,
         isso pode significar que nenhuma senha foi definida ou que algo deu errado. Será pedido que
@@ -40,7 +40,7 @@ insira
     <string name="backup_receiver_write_permission_failed">A permissão de escrita não foi concedida. Por favor, conceda-a        antes de iniciar um backup</string>
     <string name="backup_receiver_custom_encryption_failed">A criptografia de senha ou PIN não         pode ser usada com o backup de ativação remota</string>
     <string name="backup_new_format_dialog_title">Novo método de criptografia</string>
-    <string name="backup_new_format_dialog_msg">Desde a versão 0.6.3 do andOTP, um <b>método novo e aprimorado
+    <string name="backup_new_format_dialog_msg">Desde a versão 0.6.3 do 城果驗證器, um <b>método novo e aprimorado
         de criptografia</b> é usado para backups protegidos por senha. Os backups antigos ainda podem ser
         importados, mas é <b>altamente recomendado criar novos backups com o método aprimorado de
         criptografia</b>.\n\nEsta mensagem não será exibida novamente.</string>

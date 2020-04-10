@@ -5,7 +5,7 @@
     <string name="auth_hint_password">पासवर्ड</string>
     <string name="auth_hint_pin">पिन</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">कृपया andOTP शुरू करने के लिए प्रमाणित करें!</string>
+    <string name="auth_msg_authenticate">कृपया 城果驗證器 शुरू करने के लिए प्रमाणित करें!</string>
     <string name="auth_msg_confirm_encryption">कृप्या          नई एन्क्रिप्शन कुंजी जेनरेट करने के लिए अपने प्रमाणीकरण की पुष्टि करें!</string>
     <!-- Buttons -->
     <string name="auth_button_unlock">अनलॉक करें</string>

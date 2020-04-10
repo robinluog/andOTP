@@ -25,12 +25,12 @@
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">Zrzeczenie</string>
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Wszystkie miniaturki są znakami towarowymi ich odpowiednich właścicieli.</string>
-    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Użycie tych znaków towarowych nie oznacza wzajemnego poparcia właścicieli tychże znaków i andOTP.</string>
+    <string name="about_thumbnails_disclaimer_no2"><b>2.</b> Użycie tych znaków towarowych nie oznacza wzajemnego poparcia właścicieli tychże znaków i 城果驗證器.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Miniaturki powinny być używane wyłącznie w celu reprezentacji firmy lub produktu, którego dotyczą.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Proszę nie używaj tych miniaturek w innym celu, niż reprezentacja określonej marki czy usługi.</b></string>
     <!-- Support -->
     <string name="about_title_support">Wesprzyj rozwój</string>
-    <string name="about_desc_support">Dowiedz się, jak możesz wesprzeć rozwój andOTP</string>
+    <string name="about_desc_support">Dowiedz się, jak możesz wesprzeć rozwój 城果驗證器</string>
     <string name="about_title_special_features">Specjalne funkcje</string>
     <string name="about_dialog_special_features">Czy na pewno chcesz włączyć specjalne funkcje? Większość z nich to niestandardowe algorytmy OTP zaimplementowane na życzenie użytkowników. Algorytmy te <b>nie są oficjalnie wspierane</b> i mogą posiadać <b>pewne ograniczenia</b>. Aby dowiedzieć się więcej, odwiedź stronę projektu pt. „Specjalne funkcje” w serwisie GitHub.</string>
     <string name="about_toast_special_features">Specjalne funkcje włączone</string>

@@ -5,7 +5,7 @@
     <string name="auth_hint_password">Password</string>
     <string name="auth_hint_pin">PIN</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Autenticati per iniziare a utilizzare andOTP!</string>
+    <string name="auth_msg_authenticate">Autenticati per iniziare a utilizzare 城果驗證器!</string>
     <string name="auth_msg_confirm_encryption">Conferma la tua autenticazione per generare la
   nuova chiave crittografica!</string>
     <!-- Buttons -->

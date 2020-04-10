@@ -17,7 +17,7 @@
     <string name="backup_desc_export_openpgp">ओपन-पीजीपी-गोपित JSON फ़ाइल में सभी खातों का बैकअप लें</string>
     <string name="backup_desc_import_plain">एक सादे पाठ JSON फ़ाइल से खातों को पुनर्स्थापित करें</string>
     <string name="backup_desc_import_crypt">पासवर्ड से सुरक्षित JSON फ़ाइल से खातों को पुनर्स्थापित करें</string>
-    <string name="backup_desc_import_crypt_old"><b>andOTP संस्करण 0.6.3 से कम के साथ बनाया गया</b> पासवर्ड से सुरक्षित JSON फ़ाइल से खातों को पुनर्स्थापित करें</string>
+    <string name="backup_desc_import_crypt_old"><b>城果驗證器 संस्करण 0.6.3 से कम के साथ बनाया गया</b> पासवर्ड से सुरक्षित JSON फ़ाइल से खातों को पुनर्स्थापित करें</string>
     <string name="backup_desc_import_openpgp">ओपन-पीजीपी गोपित JSON फ़ाइल से खातों को पुनर्स्थापित करें</string>
     <string name="backup_desc_crypt_setup"><b>सेटिंग</b> से बैकअप पासवर्ड लोड करने में विफल,        इसका मतलब यह है कि कोई पासवर्ड सेट नहीं किया गया था या कुछ गलत हो गया था। आपको बैकअप बनाते या आयात करते समय पासवर्ड मैन्युअल रूप से         दर्ज करने के लिए कहा जाएगा    </string>
     <string name="backup_desc_openpgp_provider">आपको एक OpenPGP प्रदाता स्थापित करने और सक्षम करने की आवश्यकता है        इस सुविधा का उपयोग करने के लिए<b>सेटिंग</b> में जाएं    </string>
@@ -34,7 +34,7 @@
     <string name="backup_receiver_write_permission_failed">कृपया बैकअप का प्रयास करने से         पहले लेखन की अनुमति प्रदान करें</string>
     <string name="backup_receiver_custom_encryption_failed">पासवर्ड / पिन आधारित एन्क्रिप्शन प्रसारण बैकअप के साथ समर्थित नहीं है</string>
     <string name="backup_new_format_dialog_title">नई एन्क्रिप्शन विधि</string>
-    <string name="backup_new_format_dialog_msg">AndOTP के संस्करण 0.6.3 के बाद से, <b>नया और बेहतर एन्क्रिप्शन विधि</b> का उपयोग पासवर्ड-संरक्षित बैकअप के लिए किया जाता है। पुराने बैकअप अभी भी आयात किए जा सकते हैं, लेकिन बेहतर एन्क्रिप्शन के साथ नए बैकअप बनाने की अत्यधिक अनुशंसा की जाती है| \n\nसंदेश फिर से नहीं दिखाया जाएगा।</string>
+    <string name="backup_new_format_dialog_msg">城果驗證器 के संस्करण 0.6.3 के बाद से, <b>नया और बेहतर एन्क्रिप्शन विधि</b> का उपयोग पासवर्ड-संरक्षित बैकअप के लिए किया जाता है। पुराने बैकअप अभी भी आयात किए जा सकते हैं, लेकिन बेहतर एन्क्रिप्शन के साथ नए बैकअप बनाने की अत्यधिक अनुशंसा की जाती है| \n\nसंदेश फिर से नहीं दिखाया जाएगा।</string>
     <!-- Notification channels -->
     <string name="notification_channel_name_backup_failed">स्वचालित बैकअप विफल</string>
     <string name="notification_channel_name_backup_success">स्वचालित बैकअप सफल</string>

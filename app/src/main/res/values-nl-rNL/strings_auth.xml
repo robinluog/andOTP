@@ -5,7 +5,7 @@
     <string name="auth_hint_password">Wachtwoord</string>
     <string name="auth_hint_pin">Pincode</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Gelieve verifiëren om andOTP te starten!</string>
+    <string name="auth_msg_authenticate">Gelieve verifiëren om 城果驗證器 te starten!</string>
     <string name="auth_msg_confirm_encryption">Bevestig je verificatie om een nieuwe sleutel aan te maken!</string>
     <!-- Buttons -->
     <string name="auth_button_unlock">Ontgrendelen</string>

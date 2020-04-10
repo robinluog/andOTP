@@ -6,7 +6,7 @@
     <string name="auth_hint_password">Geslo</string>
     <string name="auth_hint_pin">PIN</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Prosim preverite svojo identiteto, da lahko začnete uporabljati andOTP!</string>
+    <string name="auth_msg_authenticate">Prosim preverite svojo identiteto, da lahko začnete uporabljati 城果驗證器!</string>
     <string name="auth_msg_confirm_encryption">Potrdite metodo preverjanja pristnosti, da ustvarite
         nov šifrirni ključ!</string>
     <!-- Buttons -->

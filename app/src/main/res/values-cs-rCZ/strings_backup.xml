@@ -18,7 +18,7 @@
     <string name="backup_desc_import_plain">Obnovit účty z nechráněného souboru JSON</string>
     <string name="backup_desc_import_crypt">Obnovit účty ze souboru JSON chráněného heslem</string>
     <string name="backup_desc_import_crypt_old">Obnoví účty z JSON souboru chráněného heslem,
-který byl vytvořen pomocí <b>verze andOTP nižší než 0.6.3</b></string>
+který byl vytvořen pomocí <b>verze 城果驗證器 nižší než 0.6.3</b></string>
     <string name="backup_desc_import_openpgp">Obnovit účty ze souboru JSON šifrovaného OpenPGP</string>
     <string name="backup_desc_crypt_setup">Nepodařilo se načíst záložní heslo z <b>Nastavení</b>, to buď znamená, že není nastaveno  žádné heslo nebo něco se pokazilo. Budete vyzváni k ručnímu zadání hesla při vytváření nebo importu zálohy.
     </string>

@@ -72,7 +72,7 @@
     <string name="dialog_label_confirm_password">تأكيد كلمة المرور</string>
     <string name="dialog_msg_auth">الرجاء إدخال بيانات الإعتماد الخاصة بجهازك لتشغيل التطبيق.</string>
     <string name="dialog_msg_confirm_delete">هل أنت متأكد من أنك تريد إزالة الحساب ؟</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>

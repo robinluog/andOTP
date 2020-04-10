@@ -6,7 +6,7 @@
     <string name="auth_hint_password">رمز عبور</string>
     <string name="auth_hint_pin">پین</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">لطفا برای شروع andOTP احراز هویت کنید!</string>
+    <string name="auth_msg_authenticate">لطفا برای شروع 城果驗證器 احراز هویت کنید!</string>
     <string name="auth_msg_confirm_encryption">لطفا احراز هویت خود را تایید کنید تا کلید رمزگذاری جدید تولید شوند!</string>
     <!-- Buttons -->
     <string name="auth_button_unlock">بازگشایی قفل</string>

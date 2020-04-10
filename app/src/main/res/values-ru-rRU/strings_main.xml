@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Убрать</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Ошибка аутентификации! Пожалуйста, попробуйте снова!</string>
-    <string name="toast_auth_failed_fatal">Ошибка аутентификации, andOTP закрывается!</string>
+    <string name="toast_auth_failed_fatal">Ошибка аутентификации, 城果驗證器 закрывается!</string>
     <string name="toast_copied_to_clipboard">Скопировано в буфер обмена</string>
     <string name="toast_entry_exists">Эта запись уже существует</string>
     <string name="toast_invalid_qr_code">Недопустимый QR-код</string>
@@ -70,11 +70,11 @@
     <string name="dialog_title_enter_password">Введите пароль</string>
     <string name="dialog_label_enter_password">Введите пароль</string>
     <string name="dialog_label_confirm_password">Подтвердите пароль</string>
-    <string name="dialog_msg_auth">Пожалуйста, подтвердите учетные данные устройства для открытия andOTP.</string>
+    <string name="dialog_msg_auth">Пожалуйста, подтвердите учетные данные устройства для открытия 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Вы уверены, что хотите удалить учётную запись \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">Чтобы andOTP знал, какие токены используются, вам нужно включить опцию \"Нажмите, чтобы показать\" или копировать токен. Эта информация будет использоваться для сортировки токенов по частоте и последнему времени использования.\n\nЭто сообщение больше не будет показано.</string>
+    <string name="dialog_msg_used_tokens">Чтобы 城果驗證器 знал, какие токены используются, вам нужно включить опцию \"Нажмите, чтобы показать\" или копировать токен. Эта информация будет использоваться для сортировки токенов по частоте и последнему времени использования.\n\nЭто сообщение больше не будет показано.</string>
     <string name="dialog_msg_keystore_error">Не удалось загрузить ключ шифрования из хранилища ключей.
-        <b>Все добавленные записи будут утеряны.</b>\n\nЧтобы по-прежнему иметь возможность использовать andOTP, 
+        <b>Все добавленные записи будут утеряны.</b>\n\nЧтобы по-прежнему иметь возможность использовать 城果驗證器,
         Вы можете перейти в <b>Настройки</b> и сменить <b>шифрование базы данных</b> на <b>пароль / PIN-код</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Сканировать QR-код</string>

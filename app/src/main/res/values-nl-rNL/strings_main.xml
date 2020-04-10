@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Verwijderen</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Authenticatie mislukt. Probeer opnieuw!</string>
-    <string name="toast_auth_failed_fatal">Verificatie is mislukt, andOTP wordt afgesloten!</string>
+    <string name="toast_auth_failed_fatal">Verificatie is mislukt, 城果驗證器 wordt afgesloten!</string>
     <string name="toast_copied_to_clipboard">Gekopieerd naar klembord</string>
     <string name="toast_entry_exists">Deze toegang bestaat al</string>
     <string name="toast_invalid_qr_code">Ongeldige QR Code</string>
@@ -70,13 +70,13 @@
     <string name="dialog_title_enter_password">Wachtwoord invoeren</string>
     <string name="dialog_label_enter_password">Wachtwoord invoeren</string>
     <string name="dialog_label_confirm_password">Wachtwoord bevestigen</string>
-    <string name="dialog_msg_auth">Voer de referenties van uw apparaat in om te beginnen met andOTP.</string>
+    <string name="dialog_msg_auth">Voer de referenties van uw apparaat in om te beginnen met 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Weet je zeker dat je account \"%1$s\" wil verwijderen?</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
-    <string name="dialog_msg_keystore_error">Fout bij het laden van de coderingssleuten van de sleutelopslag. <b>Alle vermeldingen die worden toegevoegd zullen verloren gaan.</b>\n\nOm nog steeds andOTP te kunnen gebruiken kan je naar de <b>Instellingen</b> gaan en de <b>Database codering</b> omschakelen naar <b>Wachtwoord / PIN</b>.</string>
+    <string name="dialog_msg_keystore_error">Fout bij het laden van de coderingssleuten van de sleutelopslag. <b>Alle vermeldingen die worden toegevoegd zullen verloren gaan.</b>\n\nOm nog steeds 城果驗證器 te kunnen gebruiken kan je naar de <b>Instellingen</b> gaan en de <b>Database codering</b> omschakelen naar <b>Wachtwoord / PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">QR-code scannen</string>
     <string name="shortcut_name_import_qr">Importeer QR code</string>

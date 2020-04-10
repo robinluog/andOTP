@@ -72,7 +72,7 @@
     <string name="settings_desc_openpgp_verify">A titkosított biztonsági másolatokat csak akkor lehet importálni, ha érvényes kulccsal írnak alá</string>
     <string name="settings_desc_special_features">Törölje a jelölést, hogy ismét kikapcsolja a speciális funkciókat</string>
     <string name="settings_desc_enable_screenshot">Lehetővé teszi a főképernyőképek készítését (alapértelmezés szerint letiltva biztonsági okokból)</string>
-    <string name="settings_desc_enable_android_backup_service">Lehetővé teszi az andOTP számára az Android beépített biztonsági mentési szolgáltatás használatát a kulcsok és tulajdonságok mentéséhez</string>
+    <string name="settings_desc_enable_android_backup_service">Lehetővé teszi az 城果驗證器 számára az Android beépített biztonsági mentési szolgáltatás használatát a kulcsok és tulajdonságok mentéséhez</string>
     <string name="settings_desc_clear_keystore">Törölje a titkosítási kulcsot a KeyStore-ból</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">Ehhez a funkcióhoz legalább Android 5.0 (Lollipop) szükséges</string>
@@ -90,7 +90,7 @@
     <string name="settings_dialog_title_error">Hiba</string>
     <string name="settings_dialog_title_clear_keystore">A KeyStore törlése?</string>
     <string name="settings_dialog_title_android_sync">Android sync</string>
-    <string name="settings_dialog_msg_encryption_change">az andOTP most megpróbálja megváltoztatni az adatbázis titkosítását. Meghibásodás esetén a belső biztonsági mentés visszaáll, és a titkosítás változatlan marad \n\n <b> Mindig jó ötlet, ha van egy biztonsági mentés, ha valami váratlan történik! </b></string>
+    <string name="settings_dialog_msg_encryption_change">az 城果驗證器 most megpróbálja megváltoztatni az adatbázis titkosítását. Meghibásodás esetén a belső biztonsági mentés visszaáll, és a titkosítás változatlan marad \n\n <b> Mindig jó ötlet, ha van egy biztonsági mentés, ha valami váratlan történik! </b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">Csak akkor használhatja a jelszót vagy a PIN-kódot, amíg az adatbázis-titkosítás beállítása \"Jelszó / PIN kód\"!</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">Először be kell állítania a hitelesítést \"Jelszó\" vagy \"PIN kód\" -ra!</string>
     <string name="settings_dialog_msg_encryption_invalid_without_credentials">A titkosítás megváltoztatása előtt először be kell állítania egy jelszót vagy a PIN-kódot!</string>

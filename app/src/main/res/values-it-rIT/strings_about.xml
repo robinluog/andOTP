@@ -27,14 +27,14 @@
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Tutte le miniature sono marchi dei
         rispettivi proprietari.</string>
     <string name="about_thumbnails_disclaimer_no2"><b>2.</b> L\'uso di questi marchi non indica
-        l\'avallo del titolare del marchio da parte di andOTP, né viceversa.</string>
+        l\'avallo del titolare del marchio da parte di 城果驗證器, né viceversa.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Le miniature devono essere utilizzate
         solo per rappresentare la società o il prodotto a cui si riferiscono.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Si prega di non utilizzare le miniature per
         qualsiasi scopo tranne che per rappresentare quel particolare marchio o servizio.</b></string>
     <!-- Support -->
     <string name="about_title_support">Sostieni lo sviluppo</string>
-    <string name="about_desc_support">Scopri come puoi supportare lo sviluppo di andOTP</string>
+    <string name="about_desc_support">Scopri come puoi supportare lo sviluppo di 城果驗證器</string>
     <string name="about_title_special_features">Caratteristiche speciali</string>
     <string name="about_dialog_special_features">Sei sicuro che desideri abilitare le funzionalità speciali?
         La maggior parte di esse sono algoritmi OTP non standard che sono stati implementati su

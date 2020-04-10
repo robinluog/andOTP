@@ -71,14 +71,14 @@
     <string name="dialog_title_enter_password">Digite a senha</string>
     <string name="dialog_label_enter_password">Digite a senha</string>
     <string name="dialog_label_confirm_password">Confirme a senha</string>
-    <string name="dialog_msg_auth">Por favor, insira credenciais do dispositivo para iniciar andOTP.</string>
+    <string name="dialog_msg_auth">Por favor, insira credenciais do dispositivo para iniciar 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Você tem certeza que deseja remover a conta \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
     <string name="dialog_msg_keystore_error">Falha ao carregar a chave de criptografia da KeyStore.
-        <b>Quaisquer alterações adicionadas serão perdidas.</b>\n\nPara continuar usando o andOTP, você precisa ir         até as <b>Configurações</b> e alterar a <b>Criptografia do Banco de Dados</b> para <b>Senha/PIN</b>.</string>
+        <b>Quaisquer alterações adicionadas serão perdidas.</b>\n\nPara continuar usando o 城果驗證器, você precisa ir         até as <b>Configurações</b> e alterar a <b>Criptografia do Banco de Dados</b> para <b>Senha/PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Ler código QR</string>
     <string name="shortcut_name_import_qr">Import QR code</string>

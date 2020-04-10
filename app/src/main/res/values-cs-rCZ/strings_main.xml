@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Smazat</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Chyba ověření, zkuste to prosím znovu!</string>
-    <string name="toast_auth_failed_fatal">Ověření se nezdařilo, zavírám andOTP!</string>
+    <string name="toast_auth_failed_fatal">Ověření se nezdařilo, zavírám 城果驗證器!</string>
     <string name="toast_copied_to_clipboard">Zkopírováno do schránky</string>
     <string name="toast_entry_exists">Tento záznam již existuje</string>
     <string name="toast_invalid_qr_code">Neplatný QR kód</string>
@@ -70,13 +70,13 @@
     <string name="dialog_title_enter_password">Zadejte heslo</string>
     <string name="dialog_label_enter_password">Zadejte heslo</string>
     <string name="dialog_label_confirm_password">Potvrďte heslo</string>
-    <string name="dialog_msg_auth">Prosím zadejte heslo zařízení ke spuštění andOTP.</string>
+    <string name="dialog_msg_auth">Prosím zadejte heslo zařízení ke spuštění 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Jste si jistí, že chcete odebrat účet \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">Aby andOTP rozpoznal, které tokeny jsou používány,
+    <string name="dialog_msg_used_tokens">Aby 城果驗證器 rozpoznal, které tokeny jsou používány,
         musíte mít buď povoleno \"klepnutím zobrazit\" nebo použít tlačítko Kopírovat. Platí to pro
         třídění tokenů podle \"nejvíce použito\" a také podle \"posledního použití\".\n\nTato zpráva nebude znovu zobrazena.</string>
     <string name="dialog_msg_keystore_error">Nepodařilo se načíst šifrovací klíč z KeyStore.
-         <b>Veškeré přidané položky budou ztraceny.</b> \n\nPro zajištění použitelnosti andOTP v <b>Nastavení</b> přepněte <b>Šifrování databáze</b> na <b>heslo / PIN</b>.</string>
+         <b>Veškeré přidané položky budou ztraceny.</b> \n\nPro zajištění použitelnosti 城果驗證器 v <b>Nastavení</b> přepněte <b>Šifrování databáze</b> na <b>heslo / PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Načíst QR kód</string>
     <string name="shortcut_name_import_qr">Importovat QR kód</string>

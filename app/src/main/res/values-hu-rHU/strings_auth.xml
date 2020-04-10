@@ -6,7 +6,7 @@
     <string name="auth_hint_password">Jelszó</string>
     <string name="auth_hint_pin">PIN kód</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Kérem azonosítsa magát az andOTP indításához!</string>
+    <string name="auth_msg_authenticate">Kérem azonosítsa magát az 城果驗證器 indításához!</string>
     <string name="auth_msg_confirm_encryption">Kérem erősítse meg az azonosítóját az új kulcsfájl létrehozásához!</string>
     <!-- Buttons -->
     <string name="auth_button_unlock">Feloldás</string>

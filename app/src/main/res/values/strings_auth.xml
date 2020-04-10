@@ -7,7 +7,7 @@
     <string name="auth_hint_pin">PIN</string>
 
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Please authenticate to start andOTP!</string>
+    <string name="auth_msg_authenticate">Please authenticate to start 城果驗證器!</string>
     <string name="auth_msg_confirm_encryption">Please confirm your authentication to generate the
         new encryption key!</string>
 

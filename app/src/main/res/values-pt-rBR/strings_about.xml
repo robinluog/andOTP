@@ -28,13 +28,13 @@
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> Todas as miniaturas são marcas registradas de seus
         respectivos proprietários.</string>
     <string name="about_thumbnails_disclaimer_no2"><b>2.</b> O uso destas marcas não
-        indica qualquer afiliação ou parceria com andOTP, nem vice-versa.</string>
+        indica qualquer afiliação ou parceria com 城果驗證器, nem vice-versa.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> As miniaturas só devem ser usadas para
         representar a empresa ou produto a que se referem.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. Por favor, não use as miniaturas para qualquer finalidade, exceto para representar determinada marca ou serviço.</b></string>
     <!-- Support -->
     <string name="about_title_support">Apoie o desenvolvimento</string>
-    <string name="about_desc_support">Find out how you can support the development of andOTP</string>
+    <string name="about_desc_support">Find out how you can support the development of 城果驗證器</string>
     <string name="about_title_special_features">Recursos especiais</string>
     <string name="about_dialog_special_features">Tem certeza de que deseja habilitar os recursos especiais? A maioria deles são algoritmos OTP não padronizados que foram implementados a pedido de usuários. Eles <b>não são oficialmente suportados</b> e <b>podem possuir certas limitações</b>. Por favor, leia (e entenda) a página \"Special features\" na wiki do GitHub para saber mais sobre os recursos especiais.</string>
     <string name="about_toast_special_features">Os recursos especiais foram habilitados</string>

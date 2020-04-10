@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">削除</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">認証に失敗しました、もう一度やり直してください！</string>
-    <string name="toast_auth_failed_fatal">認証に失敗しました、 andOTP を終了します！</string>
+    <string name="toast_auth_failed_fatal">認証に失敗しました、 城果驗證器 を終了します！</string>
     <string name="toast_copied_to_clipboard">クリップボードにコピーしました</string>
     <string name="toast_entry_exists">そのエントリは既に存在します</string>
     <string name="toast_invalid_qr_code">QRコードが無効です</string>
@@ -70,11 +70,11 @@
     <string name="dialog_title_enter_password">パスワードを入力</string>
     <string name="dialog_label_enter_password">パスワードを入力</string>
     <string name="dialog_label_confirm_password">パスワードの確認</string>
-    <string name="dialog_msg_auth">andOTP を起動するためにデバイス認証情報を入力してください。</string>
+    <string name="dialog_msg_auth">城果驗證器 を起動するためにデバイス認証情報を入力してください。</string>
     <string name="dialog_msg_confirm_delete">アカウント \"%1$s\" を削除してもよろしいですか？</string>
-    <string name="dialog_msg_used_tokens">andOTP がどのトークンが使用されているかを認識するためには「タップして表示」を有効にするか、コピーボタンを使用する必要があります。これは、トークンを「使用回数順」または「使用した順」で並べ替える場合に必要です。\n\nこのメッセージは再度表示はされません。</string>
+    <string name="dialog_msg_used_tokens">城果驗證器 がどのトークンが使用されているかを認識するためには「タップして表示」を有効にするか、コピーボタンを使用する必要があります。これは、トークンを「使用回数順」または「使用した順」で並べ替える場合に必要です。\n\nこのメッセージは再度表示はされません。</string>
     <string name="dialog_msg_keystore_error">キーストアから暗号化キーを読み込めませんでした。 <b>追加されたエントリはすべて失われます。</b>
-\n\n andOTP を引き続き使用できるようにするには <b>設定</b> に行き <b>データベース暗号化</b> を <b>パスワード / PIN</b> に切り替えます。</string>
+\n\n 城果驗證器 を引き続き使用できるようにするには <b>設定</b> に行き <b>データベース暗号化</b> を <b>パスワード / PIN</b> に切り替えます。</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">QRコードをスキャン</string>
     <string name="shortcut_name_import_qr">QRコードをインポート</string>

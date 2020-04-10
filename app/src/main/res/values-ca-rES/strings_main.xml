@@ -49,7 +49,7 @@
     <string name="menu_popup_remove">Suprimeix</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Error d\'autenticació. Torneu-ho a intentar!</string>
-    <string name="toast_auth_failed_fatal">L\'autenticació ha fallat, andOTP es tancarà!</string>
+    <string name="toast_auth_failed_fatal">L\'autenticació ha fallat, 城果驗證器 es tancarà!</string>
     <string name="toast_copied_to_clipboard">Copiat al porta-retalls</string>
     <string name="toast_entry_exists">Aquest element ja existeix</string>
     <string name="toast_invalid_qr_code">Codi QR no vàlid</string>
@@ -71,14 +71,14 @@
     <string name="dialog_title_enter_password">Introduïu la contrasenya</string>
     <string name="dialog_label_enter_password">Introduïu la contrasenya</string>
     <string name="dialog_label_confirm_password">Confirmeu la contrasenya</string>
-    <string name="dialog_msg_auth">Per favor, introduïu les vostres credencials per a iniciar andOTP.</string>
+    <string name="dialog_msg_auth">Per favor, introduïu les vostres credencials per a iniciar 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Segur que voleu suprimir el compte \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">In order for andOTP to recognize which tokens get used you
+    <string name="dialog_msg_used_tokens">In order for 城果驗證器 to recognize which tokens get used you
         have to have either \"tap to reveal\" enabled or use the copy button. This applies to the
         sorting of the tokens by \"most used\" as well as by \"last used\".\n\nThis message will not
         be shown again.</string>
     <string name="dialog_msg_keystore_error">No s\'ha pogut carregar la clau de xifratge del KeyStore.
-        <b>Qualsevol entrada que s\'hi hagin afegit es perdrà.</b>\n\nPer a continuar usant andOTP, podeu
+        <b>Qualsevol entrada que s\'hi hagin afegit es perdrà.</b>\n\nPer a continuar usant 城果驗證器, podeu
         anar a la <b>Configuració</b> i canviar el <b>xifratge de la base de dades</b> a <b>Contrasenyes / PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Escaneja un codi QR</string>

@@ -28,14 +28,14 @@
     <string name="about_thumbnails_disclaimer_no1"><b>1.</b> totes les miniatures són marques registrades dels seus
         respectius propietaris.</string>
     <string name="about_thumbnails_disclaimer_no2"><b>2.</b> l\'ús de les marques comercials no
-        indica aprovació del titular de la marca per andOTP, ni viceversa.</string>
+        indica aprovació del titular de la marca per 城果驗證器, ni viceversa.</string>
     <string name="about_thumbnails_disclaimer_no3"><b>3.</b> Miniatures només usades per
         representar l\'empresa o producte al qual es refereixen.</string>
     <string name="about_thumbnails_disclaimer_no4"><b>4. No utilitzeu miniatures per a qualsevol propòsit
         excepte per representar aquella marca determinada o servei.</b></string>
     <!-- Support -->
     <string name="about_title_support">Doneu suport al desenvolupament</string>
-    <string name="about_desc_support">Find out how you can support the development of andOTP</string>
+    <string name="about_desc_support">Find out how you can support the development of 城果驗證器</string>
     <string name="about_title_special_features">Característiques especials</string>
     <string name="about_dialog_special_features">Esteu segur que voleu habilitar les característiques
         especials? La major part són algorismes OTP no estàndard que es van implementar

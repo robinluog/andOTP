@@ -82,7 +82,7 @@ voci o editate, se le condizioni delle impostazioni sono configurate</string>
     <string name="settings_desc_special_features">Deselezionare per disattivare nuovamente le funzionalità speciali</string>
     <string name="settings_desc_enable_screenshot">Permetti di eseguire screenshots della schermata principale
         (disabilitato di default per motivi di sicurezza)</string>
-    <string name="settings_desc_enable_android_backup_service">Consenti a andOTP di utilizzare il servizio
+    <string name="settings_desc_enable_android_backup_service">Consenti a 城果驗證器 di utilizzare il servizio
         di backup integrato di Android per le chiavi di backup e le preferenze</string>
     <string name="settings_desc_clear_keystore">Eliminare la chiave di crittografia dal KeyStore</string>
     <!-- Toasts -->
@@ -108,7 +108,7 @@ voci o editate, se le condizioni delle impostazioni sono configurate</string>
     <string name="settings_dialog_title_error">Errore</string>
     <string name="settings_dialog_title_clear_keystore">Pulire il KeyStore?</string>
     <string name="settings_dialog_title_android_sync">Sincronizzazione Android</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP ora tenterà di modificare la crittografia
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 ora tenterà di modificare la crittografia
         del database. In caso di errore verrà ripristinato un backup interno e la crittografia
         rimarrà invariata.\n\n<b>Tuttavia, è sempre una buona idea avere un backup nel
         caso in cui accada qualcosa di inaspettato!</b></string>

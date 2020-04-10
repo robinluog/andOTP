@@ -66,7 +66,7 @@
     <string name="settings_desc_openpgp_verify">暗号化バックアップは、有効なキーで署名されている場合にのみインポートされます</string>
     <string name="settings_desc_special_features">特別機能を再び無効にする場合はチェックを外します</string>
     <string name="settings_desc_enable_screenshot">メイン画面のスクリーンショットを撮ることができます (セキュリティ上の理由でデフォルトでは無効になっています)</string>
-    <string name="settings_desc_enable_android_backup_service">andOTP が Android の組み込みバックアップサービスを使用してキーと設定をバックアップできるようにする</string>
+    <string name="settings_desc_enable_android_backup_service">城果驗證器 が Android の組み込みバックアップサービスを使用してキーと設定をバックアップできるようにする</string>
     <string name="settings_desc_clear_keystore">キーストアからの暗号化キーを削除</string>
     <!-- Toasts -->
     <string name="settings_toast_auth_device_pre_lollipop">この機能を動作させるには Android 5.0 (Lollipop) 以上である必要があります</string>
@@ -83,7 +83,7 @@
     <string name="settings_dialog_title_error">エラー</string>
     <string name="settings_dialog_title_clear_keystore">キーストアをクリアしますか？</string>
     <string name="settings_dialog_title_android_sync">Android sync</string>
-    <string name="settings_dialog_msg_encryption_change">andOTP はデータベースの暗号化を変更しようとします。 障害が発生した場合、内部バックアップが復元され、暗号化は変更されません。\n\n<b>ただし、予期しないことが発生した場合に備えてバックアップを作成することをお勧めします！</b></string>
+    <string name="settings_dialog_msg_encryption_change">城果驗證器 はデータベースの暗号化を変更しようとします。 障害が発生した場合、内部バックアップが復元され、暗号化は変更されません。\n\n<b>ただし、予期しないことが発生した場合に備えてバックアップを作成することをお勧めします！</b></string>
     <string name="settings_dialog_msg_auth_invalid_with_encryption">パスワードまたは PIN は、データベース暗号化が「パスワード / PIN」に設定されている場合のみ使用できます！</string>
     <string name="settings_dialog_msg_encryption_invalid_with_auth">まず、認証を「パスワード」または「PIN」に設定する必要があります！</string>
     <string name="settings_dialog_msg_encryption_invalid_without_credentials">暗号化を変更する前に、まずパスワードまたは PIN を設定する必要があります！</string>

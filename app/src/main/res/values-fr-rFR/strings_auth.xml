@@ -6,7 +6,7 @@
     <string name="auth_hint_password">Mot de passe</string>
     <string name="auth_hint_pin">Code PIN</string>
     <!-- Messages -->
-    <string name="auth_msg_authenticate">Veuillez vous authentifier pour lancer andOTP !</string>
+    <string name="auth_msg_authenticate">Veuillez vous authentifier pour lancer 城果驗證器 !</string>
     <string name="auth_msg_confirm_encryption">Veuillez confirmer votre authentification pour générer la
         nouvelle clé de chiffrement !</string>
     <!-- Buttons -->

@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Kaldır</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Kimlik doğrulama başarısız oldu, lütfen tekrar deneyin!</string>
-    <string name="toast_auth_failed_fatal">Kimlik doğrulama başarısız oldu, andOTP kapatılıyor!</string>
+    <string name="toast_auth_failed_fatal">Kimlik doğrulama başarısız oldu, 城果驗證器 kapatılıyor!</string>
     <string name="toast_copied_to_clipboard">Panoya kopyalandı</string>
     <string name="toast_entry_exists">Bu girdi zaten mevcut</string>
     <string name="toast_invalid_qr_code">Geçersiz bir QR kodu</string>
@@ -70,14 +70,14 @@
     <string name="dialog_title_enter_password">Şifre girin</string>
     <string name="dialog_label_enter_password">Şifre Girin</string>
     <string name="dialog_label_confirm_password">Şifreyi doğrula</string>
-    <string name="dialog_msg_auth">Lütfen andOTP\'yi başlatmak için cihaz kimlik bilgilerinizi girin.</string>
+    <string name="dialog_msg_auth">Lütfen 城果驗證器\'yi başlatmak için cihaz kimlik bilgilerinizi girin.</string>
     <string name="dialog_msg_confirm_delete">\"%1$s\" Hesabını kaldırmak istiyor musunuz?</string>
-    <string name="dialog_msg_used_tokens">andOTP\'nin hangi tokenlerin kullanıldığını tanıması için
+    <string name="dialog_msg_used_tokens">城果驗證器\'nin hangi tokenlerin kullanıldığını tanıması için
         \"göstermek için dokun\"u etkinleştirmeniz veya kopyala butonunu kullanmanız gerekmektedir.
         Bu, tokenlerin \"en çok kullanılan\" ve \"son kullanılan\" olarak sıralanması için geçerlidir.\n\nBu mesaj
         bir daha gösterilmeyecektir.</string>
     <string name="dialog_msg_keystore_error">Şifreleme anahtarı KeyStore\'dan yüklenemedi.
-        <b>Eklenen girdiler kaybolacak.</b>\n\nandOTP\'yi kullanmaya devam edebilmek için
+        <b>Eklenen girdiler kaybolacak.</b>\n\n城果驗證器\'yi kullanmaya devam edebilmek için
         <b>Ayarlar</b>\'a gidip <b>Veritabanı şifrelemesi</b>ni <b>Şifre / PIN</b>\'e çevirin.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">QR Kodu Tara</string>

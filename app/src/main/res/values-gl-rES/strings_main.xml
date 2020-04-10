@@ -48,7 +48,7 @@
     <string name="menu_popup_remove">Eliminar</string>
     <!-- Toast messages -->
     <string name="toast_auth_failed">Fallou a autenticación, por favor inténteo de novo!</string>
-    <string name="toast_auth_failed_fatal">Fallou a autenticación, pechando andOTP!</string>
+    <string name="toast_auth_failed_fatal">Fallou a autenticación, pechando 城果驗證器!</string>
     <string name="toast_copied_to_clipboard">Copiado ao portapapeis</string>
     <string name="toast_entry_exists">Este nome xa existe</string>
     <string name="toast_invalid_qr_code">Código QR inválido</string>
@@ -70,13 +70,13 @@
     <string name="dialog_title_enter_password">Introducir contrasinal</string>
     <string name="dialog_label_enter_password">Introducir contrasinal</string>
     <string name="dialog_label_confirm_password">Confirmar contrasinal</string>
-    <string name="dialog_msg_auth">Introduce as credenciais do dispositivo para iniciar andOTP.</string>
+    <string name="dialog_msg_auth">Introduce as credenciais do dispositivo para iniciar 城果驗證器.</string>
     <string name="dialog_msg_confirm_delete">Está seguro de que quere quitar a conta \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">Para que andOTP recoñeza que testemuños que se utilizaron
+    <string name="dialog_msg_used_tokens">Para que 城果驗證器 recoñeza que testemuños que se utilizaron
         debes ter ou ben \"tocar para revelar\" activado ou utilizar o botón de copiar. Esto aplícase
         para ordenar os testemuños por \"máis utilizados\" así como por \"últimos utilizados\".\n\nEsta mensaxe non se amosará outra vez.</string>
     <string name="dialog_msg_keystore_error">Fallo ao cargar a chave de cifrado desde KeyStore.
-        <b>Calquer entrada que se engada perderase.</b>\n\nPara poder seguir usando andOTP pode ir a
+        <b>Calquer entrada que se engada perderase.</b>\n\nPara poder seguir usando 城果驗證器 pode ir a
         <b>Axustes</b> e cambiar o <b>Cifrado da base da datos</b> a <b>Contrasinal / PIN</b>.</string>
     <!-- Shortcuts -->
     <string name="shortcut_name_scan_qr">Escanear código-QR</string>
